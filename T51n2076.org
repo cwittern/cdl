@@ -5,7 +5,7 @@
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2076
 
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS 【CBETA】master
+#+PROPERTY: WITNESS 【明】
 #+PROPERTY: LASTPB <pb:T_T51n2076_0196b>¶¶¶¶¶¶¶¶
 
 * [[file:T51n2076-001.txt::0196b11][景德傳燈錄序]]
