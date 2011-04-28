@@ -1,558 +1,2380 @@
-#-*- mode: org; -*-
-#+DATE: 2011-04-26 17:35:16
-#+PROPERTY: baseedition DCS
-#+PROPERTY: id T51n2076
-#+PROPERTY: title 景德傳燈錄
+#-*- mode: mandoku-view; -*-
+#+DATE: 2009/03/08 
+#+TTILE: Taisho Tripitaka, Electronic version, No. 2076 景德傳燈錄
+#+PROPERTY: ID T51n2076
+#+PROPERTY: SOURCE Taisho Tripitaka Vol. 51, No. 2076
+#+PROPERTY: BASEEDITION T
+#+PROPERTY: WITNESS 
+【CBETA】
+#+PROPERTY: LASTPB <pb:T_T51n2076_0245b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 6
-#+PROPERTY: LASTPB  <pb:DCS_T51n2076_0094a>
-<pb:DCS_T51n2076_0088a>¶¶¶¶
-景徳傳燈録卷第六。¶
-南嶽懷讓禪師法嗣。第一世九人、一人見録。¶
-江西道一禪師江西道一禪師。(姓馬、時謂馬祖。)¶
-南嶽常浩禪師。智達禪師。坦然禪師。潮州神照禪師。楊州大明寺¶
-嚴峻禪師。新羅國本如禪師。玄晟禪師。東霧山法空禪師。已上八¶
-人無機縁語句不録。)¶
-第二世三十七人。(馬祖法嗣十四人見録。)¶
-越州大珠慧海禪師。洪州百丈山惟政禪師。¶
-洪州泐潭法會禪師。池州杉山智堅禪師。¶
-洪州泐潭惟建禪師。澧州茗谿道行禪師。¶
-撫州石鞏慧藏禪師。唐州紫玉山道通禪師。¶
-江西北蘭讓禪師。洛京佛光如滿禪師。¶
-袁州南源道明禪師。忻州村自滿禪師。¶
-朗州中邑洪恩禪師。洪州百丈山懷海禪師。¶
-(禪門規式附。)鎬英禪師。崇泰禪師。王姥山翛然禪師。華州伏棲寺策禪師。¶
-<pb:DCS_T51n2076_0088b>¶
-澧州松滋塔智聰禪師。唐州雲秀山神鑑禪師。楊州棲靈寺智通禪師。杭州¶
-智藏禪師。京兆懷韜禪師。處州法藏禪師。河中府懷則禪師。常州明幹禪¶
-師。鄂州洪潭禪師。象原懷坦禪師。泐府青蓮元禮禪師。河中府保慶禪師。¶
-甘泉志賢禪師。大會山道晤禪師。泐府法柔禪師。京兆咸通寺覺平禪師。¶
-義興勝辯禪師。海陵慶雲禪師。洪州開元寺玄虚禪師。已上二十三人無機縁語句不録。)¶
-懷讓禪師第一世。¶
-江西道一禪師
-江西道一禪師漢州什■人也。姓馬氏。容貌¶
-奇異牛行虎視。引舌過鼻足下有二輪文。幼¶
-歳依資州唐和尚落髮。受具於渝州圓律師。¶
-唐開元中。習禪定於衡嶽傳法院。遇讓和尚。¶
-同參九人。唯師密受心印。(讓之一猶思之遷也。同源而異派。故¶
-禪法之盛始于二師。劉軻云、江西主大寂。湖南主石頭。往來憧憧。不見二大士爲無知矣。¶
-西天般若多羅記達磨云。震旦雖闊無別路。要假姪孫脚下行。金雞解銜一顆米。供養十¶
-方羅漢僧。又六祖能和尚謂讓曰。向後佛法從汝邊去。出馬駒蹋殺天下人。厥後江西法嗣¶
-布於天下。時號馬祖。)始自建陽佛迹嶺。遷至臨川。次至¶
-南康龔公山。大歴中。隸名於開元精舍。時連¶
-帥路嗣恭。聆風景慕親受宗旨。由是四方學¶
-者雲集坐下。一日謂衆曰。汝等諸人、各信自¶
-<pb:DCS_T51n2076_0089a>¶
-心是佛。此心即是佛心。達磨大師從南天竺¶
-國來。躬至中華傳上乘一心之法。令汝等開¶
-悟。又引楞伽經文。以印衆生心地。恐汝顛倒¶
-不自信。此心之法各各有之。故楞伽經云。佛¶
-語心爲宗。無門爲法門。又云、夫求法者、應無¶
-所求。心外無別佛、佛外無別心。不取善不捨¶
-惡。淨穢兩邊倶不依怙。達罪性空。念念不可¶
-得無自性故。故三界唯心。森羅萬象一法之¶
-所印。凡所見色皆是見心。心不自心因色故¶
-有心。汝但隨時言説。即事即理都無所礙。菩¶
-提道果亦復如是。於心所生即名爲色。知色¶
-空故生即不生。若了此意。乃可隨時著衣喫¶
-飯。長養聖胎任運過時。更有何事。汝受吾教。¶
-聽吾偈曰。心地隨時説。菩提亦只寧。事理¶
-倶無礙。當生即不生。僧問、和尚爲什麼説¶
-即心即佛。師云、爲止小兒啼。僧云、啼止時如¶
-何。師云、非心非佛。僧云、除此二種人來如何¶
-指示。師云、向伊道不是物。僧云、忽遇其中人¶
-<pb:DCS_T51n2076_0089b>¶
-來時如何。師云、且教伊體會大道。僧問、如何¶
-是西來意。師云、即今是什麼意。龐居士問。如¶
-水無筋骨能勝萬斛舟。此理如何。師云、這裏¶
-無水亦無舟。説什麼筋骨。一日師上堂良久。¶
-百丈收卻面前席。師便下堂。百丈問、如何是¶
-佛法旨趣。師云、正是汝放身命處。師問百丈¶
-汝以何法示人。百丈竪起拂子。師云、只這箇¶
-爲當別有。百丈抛下拂子。僧問、如何得合道。¶
-師云、我早不合道。僧問、如何是西來意。師便¶
-打。乃云、我若不打汝。諸方笑我也。有小師行¶
-脚迴。於師前畫箇圓相。就上禮拜了立。師云、¶
-汝莫欲作佛否。云、某甲不解捏目。師云、吾不¶
-如汝。小師不對。鄧隱峯辭師。師云、什麼處去。¶
-對云、石頭去。師云、石頭路滑。對云、竿木隨身¶
-逢場作戲。便去才到石頭。即繞禪牀一匝。振¶
-錫一聲。問、是何宗旨。石頭云、蒼天蒼天。隱峯¶
-無語。卻迴擧似於師。師云、汝更去。見他道蒼¶
-天汝便嘘嘘。隱峯又去石頭。一依前問、是何¶
-<pb:DCS_T51n2076_0090a>¶
-宗旨。石頭乃嘘嘘。隱峯又無語歸來。師云、向¶
-汝道石頭路滑。有僧於師前作四畫。上一長¶
-下三短。問云、不得道一長三短。離此四字外¶
-謂和尚答。師乃畫地一畫云。不得道長短答¶
-汝了也。(忠國師聞別云。何不問老僧。)有一講僧來問云。未¶
-審禪宗傳持何法。師卻問云、坐主傳持何法。¶
-彼云、忝講得經論二十餘本。師云、莫是師子¶
-兒否。云、不敢。師作嘘嘘聲。彼云、此是法。師云、¶
-是什麼法。云、師子出窟法。師乃默然。彼云、此¶
-亦是法。師云、是什麼法。云、師子在窟法。師云、¶
-不出不入是什麼法。無對。(百丈代云、見麼。)遂辭出門。¶
-師召云、坐主。彼即迴首。師云、是什麼。亦無對。¶
-師云、這鈍根阿師。洪州廉使問云。弟子喫酒¶
-肉即是不喫即是。師云、若喫是中丞祿。不喫¶
-是中丞福。師入室弟子一百三十九人。各爲¶
-一方宗主。轉化無窮。師於貞元四年正月中。¶
-登建昌石門山。於林中經行。見洞壑平坦處。¶
-謂侍者曰。吾之朽質當於來月歸茲地矣。言¶
-<pb:DCS_T51n2076_0090b>¶
-訖而迴。至二月四日果有微疾。沐浴訖跏趺¶
-入滅。元和中追謚大寂禪師。塔曰大莊嚴。今¶
-海昏縣影堂存焉。(高僧傳云、大覺禪師。)¶
-懷讓禪師第二世馬祖法嗣。¶
-越州大珠慧海禪師
-越州大珠慧海禪師者。建州人也。姓朱氏。依¶
-越州大雲寺道智和尚受業。初至江西參馬¶
-祖。祖問曰、從何處來。曰、越州大雲寺來。祖曰、¶
-來此擬須何事。曰、來求佛法。祖曰、自家寳藏¶
-不顧。抛家散走作什麼。我這裏一物也無。求¶
-什麼佛法。師遂禮拜問曰。阿那箇是慧海自¶
-家寳藏。祖曰、即今問我者是汝寳藏。一切具¶
-足更無欠少。使用自在何假向外求覓。師於¶
-言下自識本心。不由知覺。踊躍禮謝。師事六¶
-載。後以受業師年老。遽歸奉養。乃晦迹藏用¶
-外示癡訥。自撰頓悟入道要門論一卷。被法¶
-門師姪玄晏。竊出江外呈馬祖。祖覽訖告衆¶
-云。越州有大珠。圓明光透自在無遮障處也。¶
-衆中有知師姓朱者。迭相推識結契。來越上¶
-<pb:DCS_T51n2076_0091a>¶
-尋訪依附。(時號大珠和尚者。因馬祖示出也。)師謂曰、禪客我¶
-不會禪。竝無一法可示於人。故不勞汝久立¶
-且自歇去。時學侶漸多日夜叩激。事不得已。¶
-隨答其辯無礙。(廣語出別卷。)時有法師數人來謁¶
-曰。擬伸一問、師還對否。師曰、深潭月影任意¶
-撮摩。問、如何是佛。師曰、清潭對面非佛而誰。¶
-衆皆茫然。(法眼云、是即沒交渉。)良久其僧又問。師説何¶
-法度人。師曰、貧道未曾有一法度人。曰、禪師¶
-家渾如此。師卻問曰。大徳説何法度人。曰、講¶
-金剛般若經。師曰、講幾坐來。曰、二十餘坐。師¶
-曰、此經是阿誰説。僧抗聲曰、禪師相弄。豈不¶
-知是佛説耶。師曰、若言如來有所説法。則爲¶
-謗佛。是人不解我所説義。若言此經不是佛¶
-説。則是謗經。請大徳説看。無對。師少頃又問。經¶
-云、若以色見我。以音聲求我。是人行邪道。不¶
-能見如來。大徳且道。阿那箇是如來。曰、某甲¶
-到此卻迷去。師曰、從來未悟説什麼卻迷。僧¶
-曰、請禪師爲説。師曰、大徳講經二十餘坐。卻¶
-<pb:DCS_T51n2076_0091b>¶
-未識如來。其僧再禮拜。願垂開示。師曰、如來¶
-者是諸法如義。何得忘卻。曰、是是諸法如義。¶
-師曰、大徳是亦未是。曰、經文分明那得未是。¶
-師曰、大徳如否。曰、如。師曰、木石如否。曰、如。師¶
-曰、大徳如同木石如否。曰、無二。師曰、大徳與¶
-木石何別。僧無對。良久卻問。如何得大涅槃。¶
-師曰、不造生死業。對曰、如何是生死業。師曰、¶
-求大涅槃是生死業。捨垢取淨是生死業。有¶
-得有證是生死業。不脱對治門是生死業。曰、¶
-云何即得解脱。師曰、本自無縛不用求解。直¶
-用直行是無等等。僧曰、如禪師和尚者實謂¶
-希有。禮謝而去。有行者問。即心即佛那箇是¶
-佛。師云、汝疑那箇不是佛指出看。無對。師云、¶
-達則徧境是。不悟永乖踈。有律師法明謂師¶
-曰。禪師家多落空。師曰、卻是座主家多落空。¶
-法明大驚曰、何得落空。師曰、經論是紙墨文¶
-字。紙墨文字者倶空。設於聲上建立名句等¶
-法。無非是空。座主執滯教體豈不落空。法明¶
-<pb:DCS_T51n2076_0092a>¶
-曰、禪師落空否。師曰、不落空。曰、何卻不落空。¶
-師曰、文字等皆從智慧而生。大用現前那得¶
-落空。法明曰。故知一法不達不名悉達。師曰、¶
-律師不唯落空。兼乃錯用名言。法明作色問¶
-曰、何處是錯。師曰、律師未辨華竺之音。如何¶
-講説。曰、請禪師指出法明錯處。師曰、豈不知¶
-悉達是梵語耶。律師雖省過而心猶憤然。(具梵¶
-語薩姿曷刺他悉陀。中國翻云一切義成。舊云悉達多。猶是訛略梵語。)又問曰、¶
-夫經律論是佛語。讀誦依教奉行。何故不見¶
-性。師曰、如狂狗趁塊師子齩人。經律論是自¶
-性用。讀誦者是性法。法明曰。阿彌陀佛有父¶
-母及姓否。師曰、阿彌陀姓憍尸迦。父名月上¶
-母名殊勝妙顏。曰、出何教文。師曰、出陀羅尼¶
-集。法明禮謝讚歎而退。有三藏法師問。眞如¶
-有變易否。師曰、有變易。三藏曰、禪師錯也。師¶
-卻問三藏。有眞如否。曰、有。師曰、若無變易。決¶
-定是凡僧也。豈不聞善知識者。能迴三毒爲¶
-三聚淨戒。迴六識爲六神通。迴煩惱作菩提。¶
-<pb:DCS_T51n2076_0092b>¶
-迴無明爲大智。眞如若無變易。三藏眞是自¶
-然外道也。三藏曰。若爾者眞如即有變易。師¶
-曰、若執眞如有變易亦是外道。曰、禪師適來¶
-説眞如有變易。如今又道不變易。如何即是¶
-的當。師曰、若了了見性者。如摩尼珠現色。説¶
-變亦得説不變亦得。若不見性人。聞説眞如¶
-變便作變解。聞説不變便作不變解。三藏曰、¶
-故知南宗實不可測。有道流問。世間有法過¶
-自然否。師曰、有。曰、何法過得。師曰、能知自然¶
-者。曰、元氣是道否。師曰、元氣自元氣道自道。¶
-曰、若如是者則應有二。師曰、知無兩人。又問、¶
-云何爲邪云何爲正。師曰、心逐物爲邪。物從¶
-心爲正。有源律師來問。和尚修道還用功否。¶
-師曰、用功。曰、如何用功。師曰、饑來喫飯困來¶
-即眠。曰、一切人總如是。同師用功否。師曰、不¶
-同。曰、何故不同。師曰、他喫飯時不肯喫飯。百¶
-種須索。睡時不肯睡千般計校。所以不同也。¶
-律師杜口。有鞰光大徳問。禪師自知生處否。¶
-<pb:DCS_T51n2076_0093a>¶
-師曰、未曾死何用論生。知生即是無生法。無¶
-離生法説有無生。祖師云、當生即不生。曰、不¶
-見性人亦得如此否。師曰、自不見性不是無¶
-性。何以故見即是性。無性不能見。識即是性¶
-故名識性。了即是性喚作了性。能生萬法。喚¶
-作法性亦名法身。馬鳴祖師云。所言法者謂¶
-衆生心。若心生故一切法生。若心無生法無¶
-從生。亦無名字。迷人不知。法身無象應物現¶
-形。遂喚青青翠竹總是法身。鬱鬱黄華無非¶
-般若。黄華若是般若。般若即同無情。翠竹若¶
-是法身。法身即同草木。如人喫筍應總喫法¶
-身也。如此之言寧堪齒録。對面迷佛長劫希¶
-求。全體法中迷而外覓。是以解道者行住坐¶
-臥無非是道。悟法者縱横自在無非是法。大¶
-徳又問。太虚能生靈智否。眞心縁於善惡否。¶
-貪欲人是道否。執是執非人向後心通否。觸¶
-境生心人有定否。住寂寞人有慧否。懷傲物¶
-人有我否。執空執有人有智否。尋文取證人。¶
-<pb:DCS_T51n2076_0093b>¶
-苦行求佛人。離心求佛人。執心是佛人。此智¶
-稱道否。請禪師一一爲説。師曰、太虚不生靈¶
-智。眞心不縁善惡。嗜欲深者機淺。是非交爭¶
-者未通。觸境生心者少定。寂寞忘機者慧沈。¶
-傲物高心者我壯。執空執有者皆愚。尋文取¶
-證者益滯。苦行求佛者倶迷。離心求佛者外¶
-道。執心是佛者爲魔。大徳曰、若如是。應畢竟¶
-無所有。師曰、畢竟是大徳。不是畢竟無所有。¶
-大徳踊躍禮謝而去。洪州百丈山惟政禪師
-洪州百丈山惟政禪¶
-師。一日謂衆曰、你爲我開田我爲汝説大義。僧衆¶
-開田竟。師晩間上堂。僧問、開田已竟、請師説¶
-大義。師下禪牀行三歩。展手兩畔以目視天¶
-地云。大義田即今存矣。有老宿見日影透窓¶
-問師曰。爲復牎就日日就牎。師曰、長老房内¶
-有客歸去好。師問南泉曰。諸方善知識還有¶
-不説似人底法也無。南泉曰、有。師曰、作麼生¶
-是不説似人底法。泉云、不是心不是佛不是¶
-物。師曰、恁麼則説似人了也。曰、某甲即恁麼。¶
-<pb:DCS_T51n2076_0094a>¶
-師曰、師伯作麼生。曰、我又不是善知識争知¶
-有説不説底法。師曰、某甲不會、請師伯説。曰、¶
-我大殺爲汝説了也。僧問、如何是佛佛道齊。¶
-師曰、定也。師因入京路逢官人。命喫飯忽見¶
-驢鳴。官人召云、頭陀。師擧頭。官人却指驢。師¶
-却指官人。法眼別云、但作驢鳴焉。洪州泐潭法會禪師
-洪州泐潭法會禪師¶
-問馬祖。如何是西來祖師意。祖曰、低聲近前¶
-來。師便近前祖打一掴。云、六耳不同謀來日¶
-來。師至來日猶入法堂。云、請和尚道。祖云、且¶
-去。待老漢上堂時出來。與汝證明。師乃悟云、¶
-謝大衆證明。乃繞法堂一匝便去。¶
-池州杉山智堅禪師
-池州杉山智堅禪師。初與歸宗南泉行脚時。¶
-路逢一虎各從虎邊過了。南泉問歸宗云。適¶
-來見虎似箇什麼。宗云、似箇猫兒。宗卻問師。¶
-師云、似箇狗子。宗又問南泉。泉云、我見是箇¶
-大蟲。師喫飯次。南泉收生飯云、生。師云、無生。¶
-南泉云、無生猶是末。南泉行數歩。師召云、長¶
-老長老。南泉迴頭云、怎麼。師云、莫道是末。一¶
-<pb:DCS_T51n2076_0094b>¶
-日普請擇蕨菜。南泉拈起一莖云。這箇大好¶
-供養。師云、非但這箇。百味珍羞他亦不顧。南¶
-泉云、雖然如此。箇箇須甞他始得。(玄覺云、是相見語。不¶
-是相見語。)僧問、如何是本來身。師云、擧世無相似。¶
-洪州泐潭惟建禪師
-洪州泐潭惟建禪師。一日在馬祖法堂後坐¶
-禪。祖見乃吹師耳兩吹。師起定見是和尚。卻¶
-復入定。祖歸方丈。令侍有持一椀茶與師。師¶
-不顧便自歸堂。澧州茗谿道行禪師
-澧州茗谿道行禪師。師有¶
-時云。吾有大病非世所醫。後有僧問。先曹山¶
-承古人有言。吾有大病非世所醫。未審喚作¶
-什麼病。曹云、攅簇不得底病。云、一切衆生還¶
-有此病也無。曹云、人人盡有。云、人人盡有。和¶
-尚還有此病也無。曹云、正覓起處不得。云、一¶
-切衆生爲什麼不病。曹云、衆生若病即非衆¶
-生。云、未審諸佛還有此病也無。曹云、有。云、既¶
-有爲什麼不病。曹云、爲伊惺惺。僧問、如何修¶
-行。師云、好箇阿師莫客作。僧云、畢竟如何。師¶
-云、安置即不堪。又僧問、如何是正修行路。師¶
-<pb:DCS_T51n2076_0095a>¶
-云、涅槃後有。僧云、如何是涅槃後有。師云、不¶
-洗面。僧云、學人不會。師云、無面得洗。¶
-撫州石鞏慧藏禪師
-撫州石鞏慧藏禪師。本以弋獵爲務惡見沙¶
-門。因逐群鹿從馬祖庵前過。祖乃逆之。藏問、¶
-和尚見鹿過否。祖曰、汝是何人。曰、獵者。祖曰、¶
-汝解射否。曰、解射。祖曰、汝一箭射幾箇。曰、一¶
-箭射一箇。祖曰、汝不解射。曰、和尚解射否。祖¶
-曰、解射。曰、和尚一箭射幾箇。祖曰、一箭射一¶
-群。曰、彼此是命。何用射他一群。祖曰、汝既知¶
-如是。何不自射。曰、若教某甲自射。即無下手¶
-處。祖曰、這漢曠劫無明煩惱。今日頓息。藏當¶
-時毀棄弓箭。自以刀截髮投祖出家。一日在¶
-廚作務次。祖問曰、作什麼。曰、牧牛。祖曰、作麼¶
-生牧。曰、一迴入草去。便把鼻孔拽來。祖曰、子¶
-眞牧牛。師便休。師住後常以弓箭接機。(如三平和¶
-尚章述之。)師問西堂。汝還解捉得虚空麼。西堂云、¶
-捉得。師云、作麼生捉。堂以手撮虚空。師云、作¶
-麼生恁麼捉虚空。堂卻問、師兄作麼生捉。師¶
-<pb:DCS_T51n2076_0095b>¶
-把西堂鼻孔拽。西堂作忍痛聲云。大殺拽人¶
-鼻孔直得脱去。師云、直須恁麼捉虚空始得。¶
-衆僧參次。師云、適來底什麼處去也。有僧云、¶
-在。師云、在什麼處。其僧彈指一聲。僧到禮拜。¶
-師云、還將那箇來否。僧云、將得來。師云、在什¶
-麼處。僧彈指三聲。問、如何免得生死。師云、用¶
-免作什麼。僧云、如何免得。師云、這底不生死。¶
-唐州紫玉山道通禪師
-唐州紫玉山道通禪師者。廬江人也。姓何氏。¶
-幼隨父守官泉州南安縣。因而出家。唐天寳¶
-初。馬祖闡化建陽居佛迹巖。師往謁之。尋遷¶
-於南康龔公山。師亦隨之。貞元四年二月初。¶
-馬祖將歸寂。謂師曰、夫玉石潤山秀麗。益汝¶
-道業遇可居之。師不曉其言。是秋與伏牛山¶
-自在禪師。同遊洛陽。迴至唐州西見一山。四¶
-面懸絶峯巒秀異。因詢郷人云、是紫玉山。師¶
-乃陟山頂。見有石方正瑩然紫色。歎曰、此其¶
-紫玉也。始念先師之言乃懸記耳。遂剪茅構¶
-舍而居焉。後學徒四集。僧問、如何出得三界。¶
-<pb:DCS_T51n2076_0096a>¶
-師云、汝在裏許得多少時也。僧云、如何出離。¶
-師云、青山不礙白雲飛。于頔相公問。如何是¶
-黒風吹其船舫漂墮羅刹鬼國。師云、于頔客¶
-作漢問恁麼事怎麼。于公失色。師乃指云。這¶
-箇便是漂墮羅刹鬼國。于公又問、如何是佛。¶
-師喚于頔。頔應諾。師云、更莫別求。(有僧擧似藥山。藥山¶
-云、縛殺這漢也。僧云、和尚如何。藥山亦喚云、某甲。僧應諾。藥山云、是什麼。)¶
-元和八¶
-年。弟子金藏參百丈迴禮覲。師曰、汝其來矣。¶
-此山有主也。於是囑付金藏訖策杖徑去。襄¶
-州道俗迎之。至七月十五日無疾而終。壽八¶
-十有三。江西北蘭讓禪師
-江西北蘭讓禪師。湖塘亮長老問。¶
-伏承師兄畫得先師眞。暫請瞻禮。師以兩手¶
-擘胸開示之。亮便禮拜。師云、莫禮莫禮。亮云、¶
-師兄錯也。某甲不禮師兄。師云、汝禮先師眞。¶
-亮云、因什麼教某甲莫禮。師云、何曾錯。¶
-洛京佛光如滿禪師
-洛京佛光如滿禪師。(曾住五臺山金閣寺。)唐順宗問。佛¶
-從何方來滅向何方去。既言常住世佛今在¶
-<pb:DCS_T51n2076_0096b>¶
-何處。師答曰、佛從無爲來。滅向無爲去。法身¶
-等虚空常在無心處。有念歸無念有住歸無¶
-住。來爲衆生來去爲衆生去。清淨眞如海湛¶
-然體常住。智者善思惟更勿生疑慮。帝又問、¶
-佛向王宮生。滅向雙林滅。住世四十九又言¶
-無法説。山河及大海天地及日月。時至皆歸¶
-盡誰言不生滅。疑情猶若斯智者善分別。師¶
-答曰、佛體本無爲。迷情妄分別。法身等虚空¶
-未曾有生滅。有縁佛出世無縁佛入滅。處處¶
-化衆生猶如水中月。非常亦非斷非生亦非¶
-滅。生亦未曾生滅亦未曾滅。了見無心處自¶
-然無法説。帝聞大悦益重禪宗。袁州南源道明禪師
-袁州南源¶
-道明禪師。上堂云。快馬一鞭快人一言。有事¶
-何不出頭來。無事各自珍重。便下堂。有僧問、¶
-一言作麼生。師乃吐舌云。待我有廣長舌相¶
-即向汝道。洞山來參方上法堂。師云、已相看¶
-了也。洞山便下去。至明日卻上。問云、昨日已¶
-蒙和尚慈悲。不知什麼處是與。某甲已相看¶
-處。師云、心心無間斷。流入於性海。洞山云、幾¶
-<pb:DCS_T51n2076_0097a>¶
-放過。洞山辭去。師云、多學佛法廣作利益。洞¶
-山云、多學佛法即不問。如何是廣作利益。師¶
-云、一物莫違即是。僧問、如何是佛。師云、不可¶
-道你是也。忻州村自滿禪師
-忻州村自滿禪師。上堂云、古¶
-今不異。法尓如然更復何也。雖然如此。這箇¶
-事大有人罔措在。時有僧問。不落古今請師¶
-直道。師云、情知汝罔措。僧欲進語。師云、將謂¶
-老僧落伊古今。僧云、如何即是。師云、魚騰碧¶
-漢階級難飛。僧云、如何即得免茲過咎。師云、¶
-若是龍形誰論高下。其僧禮拜。師云、苦哉屈¶
-哉誰人似我。師一日謂衆曰。除卻日明夜暗。¶
-更説什麼即得珍重。時有僧問。如何是無諍¶
-之句。師云、喧天動地。朗州中邑洪恩禪師
-朗州中邑洪恩禪師。¶
-仰山初領新戒到謝戒。師見來。於禪牀上拍¶
-手云、和和。仰山即東邊立又西邊立。又於中¶
-心立然後謝戒了。卻退後立。師云、什麼處得¶
-此三昧。仰云、於曹谿脱印子學來。師云、汝道¶
-曹谿用此三昧接什麼人。仰云、接一宿覺用¶
-<pb:DCS_T51n2076_0097b>¶
-此三昧。仰云、和尚什麼處得此三昧來。師云、¶
-某甲於馬大師處學此三昧。問、如何得見性。¶
-師云、譬如有屋屋有六窓。内有一獼猴東邊¶
-喚山山。山山應如是。六窓倶喚倶應。仰山禮¶
-謝起云。所蒙和尚譬喩無不了知。更有一事。¶
-只如内獼猴困睡。外獼猴欲與相見如何。師¶
-下繩牀。執仰山手作舞云。山山與汝相見了。¶
-譬如蟭螟蟲在蚊子眼睫上作窠。向十字街¶
-頭叫喚云。土曠人稀相逢者少。(雲居錫云。中邑當時。若不¶
-得仰山這一句語。何處有中邑也。崇壽稠云。還有人定得此道理麼。若定不得。只是箇¶
-弄精魂脚手。佛性義在什麼處。玄覺云。若不是仰山爭得見中邑。且道什麼處是仰山¶
-得見中邑處。)洪州百丈山懷海禪師
-洪州百丈山懷海禪師者。福州長¶
-樂人也。丱歳離塵三學該練。屬大寂闡化南¶
-康。乃傾心依附。與西堂智藏南泉普願同號¶
-入室。時三大士爲角立焉。一夕三士隨侍馬¶
-祖翫月次。祖曰、正恁麼時如何。西堂云、正好¶
-供養。師云、正好修行。南泉拂袖便去。祖云、經¶
-入藏禪歸海。唯有普願、獨超物外。馬祖上堂¶
-<pb:DCS_T51n2076_0098a>¶
-大衆雲集。方升座良久。師乃卷卻面前禮拜¶
-席。祖便下堂。師再參馬祖。祖見師來取禪床¶
-角頭拂子竪起。師云、即此用離此用。祖挂拂¶
-子於舊處。師良久、祖云。你已後開兩片皮將¶
-何爲人。師遂取拂子竪起。祖云、即此用離此¶
-用。師挂拂子於舊處。祖便喝。師直得三日耳¶
-聾。自此雷音將震。檀信請於洪州新呉界住¶
-大雄山。以居處巖巒峻極。故號之百丈。既處¶
-之未期月。參玄之賓四方麏至。即有潙山黄¶
-檗當其首。一日師謂衆曰。佛法不是小事。老¶
-僧昔再參馬祖被大師一喝。直得三日耳聾¶
-眼暗。時黄檗聞擧不覺吐舌。師曰、子已後莫¶
-承嗣馬祖去。檗云、不然今日因師擧。得見馬¶
-祖大機之用。然且不識馬祖。若嗣馬祖已後¶
-喪我兒孫。師云、如是如是。見與師齊減師半¶
-徳。見過於師、方堪傳授。子堪有超師之作。一日¶
-有僧哭入法堂來。師曰、作麼。曰、父母倶喪¶
-請師選日。師云、明日來一時埋卻。師上堂云。¶
-<pb:DCS_T51n2076_0098b>¶
-併卻咽喉脣吻速道將來。潙山云、某甲不道¶
-請和尚道。師云、不辭與汝道。久後喪我兒孫。¶
-五峯云、和尚亦須併卻。師云、無人處斫額望¶
-汝。雲巖云。某甲有道處請和尚擧。師云、併卻¶
-咽喉脣吻速道將來。雲巖曰、師今有也。師曰、¶
-喪我兒孫。師謂衆曰。我要一人傳語西堂。阿¶
-誰去得。五峯云、某甲去得。師云、汝作麼生傳¶
-語。五峯云、待見西堂即道。師云、道什麼。五峯¶
-云、卻來説似和尚。師與潙山作務次。師問、有¶
-火也無。潙山云、有。師云、在什麼處。潙山把一¶
-枝木吹三兩氣過與師。師云、如蟲蝕木。問、如¶
-何是佛。師云、汝是阿誰。僧云、某甲。師云、汝識¶
-某甲否。僧云、分明箇。師乃擧起拂子云。汝還¶
-見麼。僧云、見。師乃不語。因普請钁地次。忽有¶
-一僧。聞飯鼓鳴。擧起钁頭大笑便歸。師云、峻¶
-哉。此是觀音入理之門。師歸院乃喚其僧問。¶
-適來見什麼道理便恁麼。對云、適來只聞鼓¶
-聲動歸喫飯去來。師乃笑。問、依經解義三世¶
-<pb:DCS_T51n2076_0099a>¶
-佛怨。離經一字如同魔説如何。師云、固守動¶
-靜三世佛怨。此外別求即同魔説。因僧問西¶
-堂云。有問有答不問不答時如何。西堂云、怕¶
-爛卻作麼。師聞擧乃云。從來疑這箇老兄。僧¶
-云、請和尚道。師云、一合相不可得。師謂衆云。¶
-有一人長不喫飯不道饑。有一人終日喫飯¶
-不道飽。衆皆無對。雲巖問、和尚毎日驅驅爲阿誰。¶
-師云、有一人要。巖云、因什麼不教伊自作。師¶
-云、他無家活。僧問、如何是大乘頓悟法門。師¶
-曰、汝等先歇諸縁。休息萬事。善與不善世出¶
-世間。一切諸法。莫記憶莫縁念。放捨身心令¶
-其自在。心如木石無所辯別。心無所行心地¶
-若空。慧日自現。如雲開日出相似。倶歇一切¶
-攀縁貪瞋愛取垢淨情盡。對五欲八風。不被¶
-見聞覺知所縛。不被諸境所惑。自然具足神¶
-通妙用。是解脱人。對一切境心無靜亂。不攝¶
-不散透一切聲色。無有滯礙名爲道人。但不¶
-被一切善惡垢淨。有爲世間福智拘繋。即名¶
-<pb:DCS_T51n2076_0099b>¶
-爲佛慧。是非好醜是理非理。諸知見總盡不¶
-被繋縛。處心自在。名初發心菩薩。更登佛地。¶
-一切諸法本不自空。不自言色。亦不言是非¶
-垢淨。亦無心繋縛人。但人自虚妄計著。作若¶
-干種解。起若干種知見。若垢淨心盡。不住繋¶
-縛不住解脱。無一切有爲無爲解。平等心量。¶
-處於生死其心自在。畢竟不與虚幻塵勞。蘊¶
-界生死諸入和合。迥然無寄一切不拘。去留¶
-無礙往來生死。如門開相似。若遇種種苦樂¶
-不稱意事。心無退屈。不念名聞衣食。不貪一¶
-切功徳利益。不爲世法之所滯。心雖親受苦¶
-樂不干于懷。麁食接命補衣禦寒暑。兀兀如¶
-愚如聾相似。稍有親分。於生死中廣學知解。¶
-求福求智於理無益。卻被解境風漂。卻歸生¶
-死海裏。佛是無求人求之即乖。理是無求理¶
-求之即失。若取於無求復同於有求。此法無¶
-實無虚。若能一生心如木石相似。不爲陰界¶
-五欲八風之所漂溺。即生死因斷去住自由。¶
-<pb:DCS_T51n2076_0100a>¶
-不爲一切有爲因果所縛。他時還與無縛身¶
-同利物。以無縛心應一切心。以無縛慧解一¶
-切縛。亦能應病與藥。僧問、如今受戒身口清¶
-淨。已具諸善得解脱否。答少分解脱。未得心¶
-解脱。未得一切解脱。問、云何是心解脱。答不¶
-求佛不求知解。垢淨情盡。亦不守此無求爲¶
-是。亦不住盡處。亦不畏地獄縛。不愛天堂樂。¶
-一切法不拘。始名爲解脱無礙。即身心及一¶
-切皆名解脱。汝莫言有少分戒善將爲便了。¶
-有恆沙無漏戒定慧門。都未渉一毫在。努力¶
-猛作早與。莫待耳聾眼暗。頭白面皺老苦及¶
-身。眼中流涙心中慞惶。未有去處。到恁麼時。¶
-整理脚手不得也。縱有福智多聞都不相救。¶
-爲心眼未開唯縁念諸境。不知返照復不見¶
-佛道。一生所有惡業悉現於前。或忻或怖。六¶
-道五蘊現前。盡見嚴好舍宅舟船車輿。光明¶
-顯赫。爲縱自心貪愛。所見悉變爲好境。隨所¶
-見重處受生。都無自由分。龍畜良賤亦總未¶
-<pb:DCS_T51n2076_0100b>¶
-定。問、如何得自由。答如今對五欲八風。情無¶
-取捨。垢淨倶亡。如日月在空不縁而照。心如¶
-木石。亦如香象截流而過。更無疑滯。此人天¶
-堂地獄。所不能攝也。又不讀經看教。語言皆¶
-須宛轉歸就自己。但是一切言教。只明如今¶
-覺性自己。倶不被一切有無諸法境轉。是導¶
-師。能照破一切有無境法。是金剛。即有自由¶
-獨立分。若不能恁麼得。縱令誦得十二圍陀¶
-經。只成増上慢。卻是謗佛。不是修行。讀經看¶
-教。若准世間是好善事。若向明理人邊數。此¶
-是壅塞人。十地之人脱不去。流入生死河。但¶
-不用求覓知解語義句。知解屬貪貪變成病。¶
-只如今但離一切有無諸法。透過三句外。自¶
-然與佛無差。既自是佛何慮佛不解語。只恐¶
-不是佛。被有無諸法轉不得自由。是以理未¶
-立。先有福智載去如賤使貴。不如於理先立¶
-後有福智。臨時作得。捉土爲金。變海水爲酥¶
-酪。破須彌山爲微塵。於一義作無量義。於無¶
-<pb:DCS_T51n2076_0101a>¶
-量義作一義。師有時説法竟。大衆下堂乃召¶
-之。大衆迴首。師云、是什麼。(藥山目之爲百丈下堂句。)唐元¶
-和九年。正月十七日歸寂。壽九十五。長慶元¶
-年敕謚大智禪師。塔曰大寳勝輪。禪門規式¶
-百丈大智禪師。以禪宗肇。自少室至曹谿以¶
-來。多居律寺。雖別院然於説法住持未合規¶
-度。故常爾介懷。乃曰、祖之道欲誕布化元。冀¶
-來際不泯者。豈當與諸部阿笈摩教爲隨行¶
-耶。(舊梵語阿含。新云阿笈摩。即小乘教也。)或曰、瑜伽論纓珞經。¶
-是大乘戒律胡不依隨哉。師曰、吾所宗非局¶
-大小乘。非異大小乘。當博約折中。設於制範¶
-務其宜也。於是創意別立禪居。凡具道眼有¶
-可尊之徳者。號曰長老。如西域道高臘長呼¶
-須菩提等之謂也。既爲化主即處于方丈。同¶
-淨名之室非私寢之室也。不立佛殿唯樹法¶
-堂者。表佛祖親囑受當代爲尊也。所褒學衆¶
-無多少無高下。盡入僧中依夏次安排。設長¶
-連牀施椸架挂搭道具。臥必斜枕牀脣。右脇¶
-<pb:DCS_T51n2076_0101b>¶
-吉祥睡者。以其坐禪既久。略偃息而已。具四¶
-威儀也。除入室請益。任學者勤怠。或上或下¶
-不拘常準。其闔院大衆朝參夕聚。長老上堂¶
-陞坐。主事徒衆鴈立側聆。賓主問醻激揚宗¶
-要者。示依法而住也。齋粥隨宜二時均徧者。¶
-務于節儉表法食雙運也。行普請法上下均¶
-力也。置十務謂之寮舍。毎用首領一人管多¶
-人營事。令各司其局也。(主飯者目爲飯頭。主菜者目爲菜頭。他皆¶
-倣此。)或有假號竊形混于清衆。并別致喧撓之¶
-事。即堂維那檢擧。抽下本住挂搭。擯令出院¶
-者貴安清衆也。或彼有所犯即以拄杖杖之。¶
-集衆燒衣鉢道具。遣逐從偏門而出者示恥¶
-辱也。詳此一條制有四益。一不汚清衆生恭¶
-信故。(三業不善不可共住。準律合用梵壇法治之者。當驅出院。清衆既安恭信生矣。)¶
-二不毀僧形循佛制故。(隨宜懲罰。得留法服後必悔之。)三不¶
-擾公門省獄訟故。四不洩于外護宗綱故。(四來¶
-同居聖凡孰辨。且如來應世尚有六群之黨。況今像末豈得全無。但見一僧有過。便雷例¶
-譏誚。殊不知以輕衆壞法。其損甚大。今禪門若稍無妨害者。宜依百丈叢林格式。量事區¶
-<pb:DCS_T51n2076_0102a>¶
-分。且立法防姦不爲賢士然。寧可有格而無犯。不可有犯而無教。惟百丈禪師護法之益¶
-其大矣哉。)禪門獨行由百丈之始。今略敍大要。¶
-徧示後代學者。令不忘本也。其諸軌度山門¶
-備焉。¶¶
-景徳傳燈録卷第六。¶¶
+¶
+¶景德傳燈錄卷第六
+
+¶¶
+  
+***** 南嶽懷讓禪師法嗣¶
+  * 第一世九人¶
+  
+  * 江西道一禪師
+(一人見錄姓馬時謂馬祖)¶
+  * 南嶽常浩禪師
+  * 智達禪師¶
+  * 坦然禪師
+  * 潮州神照禪師¶
+  * 揚州大明寺嚴峻禪師¶
+  * 新羅國本如禪師
+  * 玄晟禪師¶
+  * 東霧山法空禪師
+(已上八人無機緣語句不錄)¶
+  * 第二世三十七人
+(馬祖法嗣)¶
+  
+  * 越州大珠慧海禪師¶
+  * 洪州泐潭山法會禪師
+<pb:T_T51n2076_0245c>
+¶
+  * 池州杉山智堅禪師
+  * 洪州泐潭惟建禪師¶
+  * 澧州茗谿道行禪師
+  * 撫州石鞏慧藏禪師¶
+  * 唐州紫玉山道通禪師¶
+  * 江西北蘭讓禪師
+  * 洛京佛光如滿禪師¶
+  * 袁州南源道明禪師
+  * 忻州酈村自滿禪師¶
+  * 朗州中邑洪恩禪師¶
+  * 洪州百丈山懷海禪師
+(禪門規式附已上十三人見錄)¶
+  * 鎬英禪師
+  * 崇泰禪師¶
+  * 王姥山翛然禪師
+  * 華州伏棲寺策禪師¶
+  * 澧州松滋塔智聰禪師¶
+  * 唐州雲秀山神鑒禪師¶
+  * 揚州棲靈寺智通禪師¶
+  * 坑州智藏禪師
+  * 京兆懷韜禪師¶
+  * 處州法藏禪師
+  * 河中府懷則禪師¶
+  * 常州明幹z禪師
+  * 鄂州洪潭禪師¶
+  * 象原懷坦禪師
+  * 潞府青蓮元禮禪師¶
+  * 河中府保慶禪師
+  * 甘泉志賢禪師¶
+  * 大會山道晤禪師
+  * 潞府法柔禪師¶
+  * 京兆咸通寺覺平禪師¶
+  * 義興勝辯禪師
+  * 海陵慶雲禪師¶
+  * 洪州開元寺玄虛禪師
+(已上二十三人無機緣語句不錄)¶
+****** 懷讓禪師第一世
+
+¶
+
+江西道一禪師，				  MASTER TAO I (Ma Tsu) of the south of the River 
+漢州什邡人也，				  was a man from Shih Fang Province of Han State. 
+姓馬氏。				  His surname was Ma, 
+容貌¶奇異，				  and his appearance was strange. 
+牛行虎視，				  He walked like an ox and looked at things like a tiger. 
+引舌過鼻，				  When he spread out his tongue it covered his nose, 
+足下有二輪文。				  and he had two wheel-shaped marks on his feet. 
+幼¶歲依資州唐和尚落髮，			  When young, he had his head shaved by Venerable T'ang Ho of Tzu State, 
+受具於渝州圓律師。			  and he received the Complete Precepts from Vinaya Master Yuan. 
+¶唐開元中，				  During the era of K'ai Yuan (713-741 A.D.) of the T'ang dynasty 
+習禪定於衡嶽傳法院，			  he practiced Ch'an samadhi at Ch'uan Fa Temple of Heng Mountain, 
+遇讓和尚。				  where he met with Master Huai ]ang. 
+¶同參九人，				  He became one of the nine monks under this master, 
+唯師密受心印				  but was the only one of them who received the secret spiritual seal.
+(讓之一猶思之遷也。
+同源而異派。
+故禪法之盛始于¶二師。
+劉軻云。
+江西主大寂。
+湖南主石頭。
+往來憧憧不見二大士為無知矣。
+西天般若多羅記達磨云。
+震旦雖闊無¶別路。
+要假姪孫脚下行。
+金雞解銜一顆米。
+供養十方羅漢僧。
+又六祖能和尚謂讓曰。
+向後佛法從汝邊去。
+馬駒蹋
+<pb:T_T51n2076_0246a>
+¶殺天下人。
+厥後江西法嗣布於天下。
+時號馬祖焉)
+始自建陽佛迹嶺遷至臨¶川，		From Buddha Trace Cliff at Chien Yang, the Master first moved to Lin Ch'uan; 
+次至南康龔公山。			then later he went to Kung Kung Mountain in Nan K'ang, 
+大歷中，				and during the Ta Li era (766-779 A.D.) 
+隷名於開元精¶舍。			he joined K'ai Yuan Temple. 
+時連帥路嗣恭。			On hearing of his reputation, Lien Shuai and Lu Szu Kung
+聆風景慕，			came in person to accept the religion; 
+親受宗旨。			and because of this, students
+由是¶四方學者雲集坐下。		from the four directions assembled like clouds under his seat.
+
+一日，				One day 
+謂眾曰︰				he said to the congregation: 
+「汝等諸人，			"You brothers should each
+¶各信自				apprehend that 
+心是佛，				your mind is the Buddha. 
+此心即是佛心。			This mind of yours is the Buddha mind. 
+達磨大師從¶南天竺國來，		When Bodhidharma came from Southern India 
+躬至中華，				  to China and transmitted 
+傳上乘一心之法，			  the supreme teaching of One Mind, 
+¶令汝等開悟。				  he enabled us to comprehend the meaning of enlightenment. 
+又引					  He also quoted passages of the
+《楞伽經》文，				  Lankatavara Sutra and thus 
+以印眾生心地，				  imprinted the mind-ground of humanity upon us.
+¶恐汝顛倒，				  Perhaps you do not believe in yourselves because
+不自信。				  of the mistaken, upside-down view that each of you has—
+此心之法，				  the view of 'mind 
+各各有之。				  within yourself . 
+故《楞¶伽經》云︰			  Therefore it is said in the Lankavatara Sutra: 
+『佛語心為宗，				  'The Buddha-word takes mind as its essential and 
+無門為法門。』」			  no-gate as its doctrine'. 
+
+又云︰					  It is also said: 
+「夫求¶法者，				  'Those who seek for the truth 
+應無所求，				  must realize the fact that there is 
+心外無別佛，				  no Buddha outside mind, and 
+佛外無別心。				  there is no mind apart from Buddha'. 
+不¶取善，				  Do not accept the good and 
+不捨惡，				  reject the bad; 
+淨穢兩邊俱不依怙。			  depend neither on purity at one extreme nor on impurity at the other extreme.
+達罪性空，				  Then you will realize the voidness of the nature of sin, 
+¶念念不可得，				  and that there is nothing to be grasped at in each moment. 
+無自性故，				  Nothing has self-nature,
+故三界唯心。				  and the triple worlds (the realm of desires, the realm of form, and the realm of spirit) are but mind; 
+森羅萬¶象，				  all the myriad manifestations of the universe 
+一法之所印，				  are that which is imprinted by one thing—namely, mind.
+凡所見色，				  All that is seen 
+皆是見心，				  is no other than mind. 
+心不自¶心，				  However, this mind is not merely self-existent; 
+因色故有。				  it is also dependent on plurality of material existences.
+汝但隨時言說，				  It is a principle and at the same time it is a matter of practice; 
+即事即理，				  that is to say, it is subjective and at the same time it is objective. 
+都¶無所礙，
+菩提道果，
+亦復如是。
+於心所生，
+即名¶為色，
+知色空故，
+生即不生。				  In other words, the life is not the life. 
+若了此心，				  One who comprehends this mind lives,
+乃可隨¶時著衣喫飯，			  dresses, and eats in accordance with what is proper in each situation,
+長養聖胎，				  and passes the time in spontaneity. 
+任運過時，
+更有何事？
+¶汝受吾教，
+聽吾偈曰︰				  To understand my teaching, listen to this poem:
+『¶
+#+BEGIN_VERSE
+心地隨時說，				  Mind-ground expresses itself in accordance with the time.
+菩提亦只寧。¶				  Bodhi is identical to it.
+事理俱無礙，				  The principle and its application are interfused without impediment.
+當生即不生。				  (There is) life, and at the same time, not life.
+#+END_VERSE¶
+』」
+******* 
+僧問︰					  A monk asked, 
+「和尚為什麼說即心即佛？」		  "Master, why do you preach that mind is Buddha?"
+
+師云︰					  The Master answered, 
+「為止小¶兒啼。」			  "Because I have to stop a baby from crying."
+
+
+僧云︰					  The monk asked again, 
+「啼止時如何？」			  "What would you say when the crying has ceased?"
+
+師云︰					  The Master answered, 
+「非心非佛。」				  "I would say, `There is neither mind nor Buddha'."
+
+僧¶云︰					  The monk asked, 
+「除此二種人來，			  "How would you direct a man who has gone
+如何指示？」				  beyond both statements?"
+
+師云︰					  The Master replied, 
+「向伊道不¶是物。」			  "I would say to him that it is not a thing."
+
+僧云︰					  The monk asked, 
+「忽遇其中人				  "How would you direct a man who belongs
+來時如何？」				  to none of these and suddenly comes to ask about the Tao?"
+
+師云︰					  The Master answered, 
+「且教¶伊體會大道。」			  "I would let him comprehend the great Tao."
+******* 
+僧問︰					  A monk asked, 
+「如何是西來意？」			  "What is the message of Bodhidharma coming from India?"
+
+師云︰
+「即今¶是什麼意？」
+******* 
+龐居士問︰				  Layman P'ang Yun asked, 
+「如水無筋骨，				  "What is the reason the water, which has no bones or muscles, 
+能勝萬斛¶舟，				  can support ships holding vast quantities of goods?"
+此理如何？」
+
+師云︰					  The Master answered, 
+「遮裏無水亦無舟，			  "Here is no water and no ship either. 
+說什¶麼筋骨！」				  What is the use of talking about the muscles and bones?"
+******* 
+一日，					  One day 
+師上堂，				  the Master ascended the dais in the hall of the monastery.
+良久，					  After a short silence, 
+百丈收却面前席；			  Baizhang rolled up the mat in front of him (to indicate that the sermon was finished). 
+¶師便下堂，				  Thereupon the Master descended from the dais.
+百丈問︰				  Baizhang asked, 
+「如何是佛法旨趣。？」			  "What is the message of Buddhism?"
+師云︰					  The Master answered, 
+「正<pb:T_T51n2076_0246b>¶		  "This 
+是汝放身命處。」			  is the matter for which you let your body and life go."
+******* 
+師問百丈︰				  The Master asked Baizhang, 
+「汝以何法示人？」			  "What teaching will you preach to people?" 
+百¶丈竪起拂子。				  Thereupon Baizhang raised up the dust-whisk. 
+師云︰					  The Master asked, 
+「只遮箇，				  "What else 
+為當別有？」				  will you preach?" 
+百丈¶拋下拂子。				  Baizhang put the dustwhisk down.
+******* 
+僧問︰					  A monk asked, 
+「如何得合道？」			  "How can we be in accord with the Tao?"
+師云︰					  The Master answered, 
+「我早不合¶道。」			  "I have not been in accord with the Tao since my early days."
+******* 
+僧問︰					  A monk asked, 
+「如何是西來意？」			  "What is the message of Bodhidharma coming from India?" 
+師便打，				  The Master struck him 
+乃云︰					  and said, 
+「我若不¶打汝，				  "If I didn't strike you,
+諸方笑我也。」				  masters in other places would laugh at me."
+******* 
+有小師行脚迴，				  After returning from his study-pilgrimage, 
+於師前畫¶箇圓相，			  a disciple drew a circle in front of the Master, 
+就上禮拜了立，				  stood within it, and bowed. 
+師云︰					  The Master asked,
+「汝莫欲作佛否？」¶			  "Do you wish to make of it a Buddha, or not?"
+云︰					  The monk answered, 
+「某甲不解揑目。」			  "I do not know how to fabricate the eyes."
+師云︰					  The Master remarked, 
+「吾不如汝。」				  "I cannot do any better than you."
+小師不對。				  The disciple made no response.
+******* 
+¶鄧隱峯辭師，				  When Peng Dengyin was taking his leave of the Master, 
+師云︰					  he was asked, 
+「什麼處去？」				  "Where do you intend to go?"
+對云︰					  He' answered, 
+「石頭去。」				  "I am going to Shih T'ou, Sir."
+¶師云︰					  The Master remarked, 
+「石頭路滑。」				  "The way to Shih T'ou is slippery."
+對云︰					  Feng Dengyin said in return, 
+「竿木隨身，				  "Bamboo groves and forests are on the way I shall follow, 
+逢場作戲。」				  and in such places I shall enjoy nature."
+便¶去。					  Then he left.
+******* 
+纔到石頭，				  Arriving at the place where Shih T'ou 
+即繞禪床一匝，				  was seated on the Ch'an seat, he walked around him, 
+振錫一聲，				  shook his stick, and 
+問︰					  made this challenge:
+「是¶何宗旨？」				  "What school of the teaching do you profess?"
+石頭云︰				  Shih T'ou answered, 
+「蒼天！				  "It is fine today, 
+蒼天！」				  it is fine today."
+隱峯無語，				  Feng Dengyin had no word to say. 
+却迴，					  He returned and 
+舉¶似於師，				  related the story to Master Ma Tsu, 
+師云︰					  who instructed him, 
+「汝更去，				  "You are to go back
+見他道蒼天，				  again, and if he says 'It is fine today' 
+汝便噓¶噓。」				  you must make a deep sigh."
+
+隱峯又去石頭，				  Accordingly, the monk went back to Shih T'ou and 
+一依前問︰				  repeated the same catechism as before. 
+「是何宗旨？」				  But this time when asked what school of teaching he professed, 
+石頭¶乃噓噓。				  Shih T'ou uttered a deep sigh. 
+隱峯又無語。				  Teng Yin Feng again had no word to say.
+
+歸來，					  Upon his return 
+師云︰					  the Master said, 
+「向汝道。				  "I warned you that the way
+石¶頭路滑。」				  to Shih T'ou was slippery."
+******* 
+有僧於師前作四畫，			  Once a monk drew four strokes in front of the Master. 
+上一長，				  There was a long line at the top and 
+下三短，				  three short lines beneath it.
+¶問云︰					  The monk said, 
+「不得道一長三短，			  "You cannot say that the one is long and the three are short. 
+離此四字外，				  Apart from these four strokes, what is the truth? 
+請和尚¶答。」				  Pray, Master, would you mind answering my question'?"
+
+師乃畫地一畫，				  The Master then drew a stroke on the ground and 
+云︰					  commented,
+「不得道長短，				  "This cannot be said to be long or short. 
+答汝了也。」				  This is my answer to your question."
+¶
+(忠國師聞，
+別云︰
+「何不問老僧？)」
+******* 
+有一講僧來，				  There came a scholarly monk, 
+問云︰					  who asked, 
+「未審禪宗傳持¶何法？」			  "What teaching does Ch'an Buddhism convey?"
+
+師却問云︰				  The Master asked, 
+「坐主傳持何法？」			  "What message do you convey?"
+
+彼云︰					  The monk said, 
+「忝講得¶經論二十餘本。」		  "I am happy to say that I am able to discourse on more than twenty books of sutras and commentaries."
+
+師云︰					  (The Buddha is often known as the lion of men, and) the Master commented, 
+「莫是師子兒否？」			  "Don't you think yourself lion-hearted!"
+
+云︰					  The monk said, 
+「不敢。」				  "Thank you."
+¶師作噓噓聲。				  The Master sighed deeply, and 
+彼云︰					  the monk said, 
+「此是法。」				  "This is a teaching."
+
+師云︰					  The Master asked, 
+「是什麼法？」				  "What teaching is it?"
+
+云︰¶					  He answered, 
+「師子出窟法。」			  "It is the teaching of the lion coming out of his cave."
+師乃默然。				  The Master kept silent. 
+
+彼云︰					  The monk then remarked, 
+「此亦是法。」				  "This, also, is a teaching."
+
+師云︰					  The Master asked, 
+「¶是什麼法？」				  "What teaching is it?"
+
+云︰					  He answered, 
+「師子在窟法。」			  "It is the teaching of the lion in his cave."
+
+師云︰					  The Master asked, 
+「不出不入是¶什麼法？」			  "What is the teaching of neither coming out nor staying in?"
+無對。					  The monk had no response to make  and decided to leave. 
+(百丈代云︰
+「見麼？)」
+遂辭出門，				  He was going out of the gate when 
+師召云︰				  the Master called after him,
+「坐主！」				  "Venerable Sir!" 
+¶彼即迴首。				  He turned his head, 
+師云︰					  and the Master asked, 
+「是什麼？」				  "What is it?"
+亦無對。				  Again he made no response. 
+師云︰					  The Master remarked, 
+「遮鈍¶根阿師。」			  "Such a stupid fellow."
+******* 
+洪州廉使問云︰				  The provincial judge of Hongzhou asked, 
+「弟子喫酒肉即是？			  "Should I take wine and meat, 
+不¶喫即是？」				  or should I abstain from them?"
+師云︰					  The Master answered, 
+「若喫，				  "If you take them 
+是中丞祿；				  they are gifts to Your Worship, 
+不喫，					  and if you abstain from them 
+是中丞福。」				  they are blessings to Your Worship."
+
+¶
+師入室弟子一百三十九人，		  The Master had 139 disciples who received his personal training
+各為一方宗主，				  and became spiritual leaders, each in a different district. Their
+¶轉化無窮。				  missionary activities were endless. In January of the fourth year of
+師於貞元四年正月中，			  Cheng Yuan (788 A.D.) the Master climbed up through the forest
+登建昌石				  of Shih Men Mountain of Chien Ch'ang State. Looking at the floor
+<pb:T_T51n2076_0246c>			  of a cavernous gully, he said to his attendant, "This decaying body
+¶門山，					  of mine will return to this earth next month." After this statement
+於林中經行，				  he had a slight illness. As predicted, on February 4th, after taking
+見洞壑平坦處，				  a bath, he passed away sitting in the lotus posture.
+謂侍者曰︰
+「¶吾之朽質，
+當於來月歸茲地矣。」			  During the era of Yuan Ho (806-820 A.D.) the posthumous title
+言					  of Master Ta Chi (Great Silence) was conferred on him. His stupa,
+訖而迴。				  named Great Decoration, is preserved in the House of the True
+至¶二月四日，				  Shadow in Hai Hun Prefecture.
+果有微疾，
+沐浴訖，
+跏趺入滅。				  MASTER TA CHU (GREAT PEARL) HUI HAI of Yueh State was
+元和¶中，				  a man from Chien State; his surname was Chu. He was ordained as
+追諡大寂禪師，				  a homeless monk by Venerable Tao Chih of Ta Yun Temple in Yueh
+塔曰大莊嚴，				  State. Immediately after his ordination he went south of the River
+今海昏縣影¶堂存焉
+(高僧傳云。				  191.
+大覺禪師按權德輿作塔銘言。
+馬祖終於開元寺。
+荼毘於石門而建塔也。			  to study Ch'an under Master Ma Tsu.
+至會昌沙¶汰後大中四年七月。
+宣宗勅江西觀察使裴休重建塔并寺。
+賜額寶峯)。¶				  Ma Tsu asked, "Where do you come from?"
+****** 懷讓禪師第二世
+
+馬祖法嗣				  He answered, "1 have come from Ta Yun Temple of Yueh State."
+					  Ma Tsu asked, "What do you expect to do by coming here?"
+¶					  He replied, "I have come to seek for Buddha-Dharma."
+
+越州大珠慧海禪師者，
+建州人也，				  Ma Tsu asked, "What do you mean by abandoning your own
+姓朱氏。
+依¶越州大雲寺道智和尚受業。
+初至江西參馬¶祖，			  can you be seeking for?"
+祖問曰︰
+「從何處來？」
+					  Thereupon Hui Hai bowed and asked, "What is this treasurestorehouse
+					  of mine?"
+曰︰
+「越州大雲寺來。」
+					  Ma Tsu a,nswered, "That which is now questioning me is the
+祖¶曰︰					  very treasure-house you own. Everything is kept in it; there is nothing
+「來此擬須何事？」			  lacking. You are free to use the things in it. Why do you seek for
+					  anything outside?"
+曰︰
+「來求佛法。」
+					  As this statement struck him, Hui Hai grasped for himself the
+祖曰︰					  realization that the original mind of a man does not depend on
+「自家寶¶藏不顧，			  perception. He skipped for joy when he appreciated the full meaning,
+拋家散走作什麼？			  and he served Master Ma Tsu for six years. Later, when his ordination
+我遮裏一物也無，			  teacher grew old, he hastened back to support him.
+¶求什麼佛法？」
+
+師遂禮拜，				  Obscuring his traces and concealing his activities, Master Hui
+問曰︰					  Hai pretended to be a fool, but he distinguished himself by writing
+「阿那箇是慧海¶自家寶藏？」		  a book in one scroll entitled The Essentials of Entering into the Tao by
+					  Abrupt Awakening. A teacher of the doctrine, Chih Hsuan Yen,
+祖曰︰					  secretly took the scroll across the river and presented it to Master
+「即今問我者，				  Ma Tsu. After reading it to the congregation, Master Ma Tsu said,
+是汝寶藏。				  "In Yueh State there is a great pearl which is round and clear. Its
+一切¶具足，				  light penetrates freely through everything without obstruction."
+更無欠少，				  Among the congregation members there were a few who knew that
+使用自在，				  the surname of the Master was Chu (a word which also means
+何假向外求覓？」			  "pearl"). Although they knew each other only slightly, they became
+師¶於言下自識本心不由知覺，		  sworn friends and agreed to journey to Yueh State and stay there for
+踊躍禮謝，				  instruction.
+師事¶六載。
+後以受業師年老，
+遽歸奉養，				  (When they got there) the Master addressed them as follows: "My
+乃晦迹藏¶用，				  Ch'an guests, I do not understand what C,h'an is; bcsides, I have not
+外示癡訥。				  a single teaching to show anyone, so yoû need not stand for a long
+					  time in order to listen to me. As you choose, you may stay or leave."
+自撰					  Then students gathered increasingly by day and night, and he was
+《頓悟入道要門論》一卷，		  obliged to keep up his eloquent speaking in answering their questions.
+被¶法門師姪玄晏竊出江外呈馬祖，
+祖覽訖，
+告¶眾云︰				  There were several monks who came to carry on discussion
+「越州有大珠，
+圓明光透，				  192
+自在無遮障。
+處¶也。」
+					  with the Master, and they asked, "Will you be kind enough to answer
+眾中有知師姓朱者，			  our questions?"
+迭相推識，
+結契來越
+¶上尋訪依附				  The Master said, "You are free to try to catch the face of the
+(時號大珠和尚者。			  moon reflected in the deep lake."
+因馬祖示出也)
+師謂曰︰
+「禪客！				  They asked, "Who is the Buddha?"
+我不¶會禪，
+並無一法可示於人，
+故不勞汝久立，				  The Master answered, "Look at the face looking at the face. Who
+且¶自歇去。」				  could he be if he is not a Buddha?"
+時學侶漸多，
+日夜叩激，
+事不得已，				  The audience was completely puzzled.
+隨¶問隨答，
+其辯無礙
+(廣。					  After a pause, one of the monks asked another question. "What
+					  kind of teaching do you preach for liberating people?"
+語出別卷)
+時有法師數人來謁，
+¶曰︰					  The Master answered, "I have never preached any dharma for
+「擬伸一問，				  liberating people."
+師還對否？」
+
+					  The monk remarked, "All Ch'an masters say such things."
+師曰︰					  The Master asked in return, "What kind of teaching do you
+「深潭月影，				  preach in order to liberate people?"
+任意¶撮摩。」
+
+問︰					  The monk answered, "I have been discoursing on the Diamond
+「如何是佛？」				  Sutra. "
+
+師曰︰
+「清潭對面，				  The Master asked, "How many times have you discoursed on
+非佛而誰？」				  this sutra?"
+¶眾皆茫然。
+
+(法眼云︰				  The monk said, "More than twenty times."
+「是即沒交涉。)」
+
+良久，					  The Master asked, "Who delivered this sutra?"
+其僧又問︰
+「師說何法¶度人？」
+					  The monk protested loudly: "Master, you are teasing me! How
+師曰︰					  could you be ignorant of such a thing?"
+「貧道未曾有一法度人。」
+
+曰︰					  The Master commented, "If a man should say that the Tathagata
+「禪師家				  delivered the teaching, he would be slandering the Buddha. Such a
+<pb:T_T51n2076_0247a>			  man does not understand the meaning of what is said. If he should
+¶渾如此。」				  say that the sutra was not delivered by the Buddha, he would be
+					  slandering the sutra. Pray, Venerable Sir, l would like you to comment
+師却問曰︰				  on this point.".
+「大德說何法度人？」
+
+曰︰					  No response was .given. After a pause, the Master said, "It says
+「講					  in the sutra: 'If people see me in form, or seek me in voice, such
+《金¶剛般若經》。」			  people follow the wrong way and cannot see the Tathagata.' Tell me,
+					  Venerable Sir, what is the Tathagata?"
+師曰︰
+「講幾坐來？」
+					  The monk said, "I am puzzléd by the question."
+曰︰
+「二十餘坐。」
+					  The Master retorted, "You have never been enlightened in any
+					  way, or how could you say that you are puzzled by the question?"
+師曰︰
+「¶此經是阿誰說？」
+					  The monk begged, "Pray, Master, would you mind explaining
+僧抗聲曰︰				  it for me?"
+「禪師相弄！
+豈不知¶是佛說耶？」
+					  The Master said, "Venerable Teacher, you have discoursed on
+師曰︰					  the sutra at more than twenty gatherings without comprehending what
+「若言如來有所說法，			  the Tathagata meant."
+則為謗¶佛，
+是人不解我所說義；			  193
+若言此經不是佛說，
+¶則是謗經，
+請大德說看。」				  Bowing, the monk again begged for instruction.
+無對。
+
+師少頃又問︰				  The Master then said, "The Tathagata means the ultimate reality
+「經¶云︰				  of all things. How can you forget it?"
+『若以色見我，
+以音聲求我，
+是人行邪道，				  The monk said, "Yes, that's right, that's right. It means the
+不¶能見如來。』				  ultimate reality of all things."
+大德！
+且道。
+阿那箇是如來？」			  The Master replied, "What your ability thinks to be right is not
+					  yet right."
+曰︰
+「某甲¶到此却迷去。」
+					  The monk said, "The text of the sutra affirms it clearly; how
+師曰︰					  can it not be right?"
+「從來未悟，
+說什麼却迷！」
+					  The Master said, "Venerable Monk, are you in accord with that
+僧¶曰︰					  reality or not?"
+「請禪師為說。」
+
+師曰︰					  The monk,answered, "Yes, I am."
+「大德講經二十餘坐
+，
+却¶未識如來。」				  The Master asked, "Is your reality the same as the reality of trees
+其僧再禮拜，				  and stones, or not?"
+願垂開示。
+
+師曰︰					  The monk answered, "They are not dual."
+「如來¶者，
+是諸法如義，
+何得忘却？」				  The Master asked, "Then why is your venerable self different
+					  from trées and stones?"
+曰︰
+「是！
+是諸法如¶義。」				  The monk made no response, but after a pause countered by
+					  asking, "How can I attain the great nirvana?"
+師曰︰
+「大德！
+是亦未是。」				  The Master answered, "Don't commit actions leading to life and
+					  death."
+曰︰
+「經文分明，
+那得未¶是？」				  The monk asked, "What are the actions leading to life and
+					  death?"
+
+師曰︰
+「大德如否？」				  The Master said, "It is an action for life and death to seek for
+					  the great nirvana. It is an action for life and death to abandon dust
+曰︰					  and grasp purity. It is an action for lifc and dcath to obtain shmething,
+「如。」				  or to have an evidence of something. lt is an action for life and death
+					  not to get rid of the gates of discrimination."
+師曰︰
+「木石如否？」
+					  The monk asked, "How can I gain emancipation?"
+曰︰
+「¶如。」
+					  The Master answered, "There is no bondage from the beginning,
+師曰︰					  so don't seek to get rid of it. The unequalled Way is direct functioning
+「大德如同木石如否？」			  and direct action."
+
+曰︰
+「無二。」				  The monk remarked, "One like this Ch'an master is indeed rare."
+					  Grateful for the instruction, he went away.
+師曰︰
+「¶大德與木石何別？」
+					  There was a layman who asked, "If human mind is the Buddha,
+僧無對，				  what is the Buddha?"
+良久，
+却問︰
+「如何得¶大涅槃？」			  Thc Master answered, "Which one do you suppose is not the
+					  Buddha? Do you feel doubtful? If you point at someone, I will see
+師曰︰					  him."
+「不造生死業對。」
+
+曰︰					  The monk had no reply.
+「如何是生死¶業？」
+					  194
+師曰︰
+「求大涅槃是生死業，
+捨垢取淨是生¶死業，			  The Master continued, "When you reach the goal, the whole
+有得有證是生死業，			  universe will become right. But if you do not comprehend the truth,
+不脫對治門是生¶死業。」			  you will forever be at odds with things."
+
+曰︰
+「云何即得解脫？」			  There was a master of the Vinaya School named Fa Ming, who
+					  commented, "Ch'an masters are mostly taken up with the idea of
+師曰︰					  voidnt:ss."
+「本自無縛，
+不用¶求解。
+直用直行，				  The Master exclaimed, "On the contrary, it is the school you
+是無等等。」				  belong to which generally inclines to voidness."
+
+
+僧曰︰					  Greatly astonished, Fa Ming protested, "How do we incline to
+「如禪師和尚¶者，			  voidness?"
+實謂希有。」
+禮謝而去。
+					  The Master said, "Sutras and sastras are no other than paper and
+有行者問︰				  ink and letters. Paper and ink and letters are all void. Even if such
+「即心即佛，				  things as nouns and phrases are created, they are still nothing but
+¶那箇是佛？」				  voidness. Your speaking is attached to the letter of the doctrine; how
+					  could you be free from inclining towards voidness?"
+師云︰
+「汝疑那箇不是佛？
+指出看。」				  Fa Ming asked, "And do you, Venerable Sir, incline to voidness
+無¶對。					  or not?"
+
+師云︰
+「達即遍境是，				  The Master answered, "I do not incline to voidness."
+不悟永乖疎。」
+
+有律師¶法明。				  Fa Ming asked, "Why do you not incline toward voidness?"
+謂師曰︰				  The Master replied, "All letters, together with everything else,
+「禪師家多落空。」
+
+師曰︰					  function of wisdom is present?"
+「却是坐主¶家多落空。」
+
+法明大驚，				  Fa Ming remarked, "Therefore, I realize that [Gautama Buddha]
+曰︰					  would not have been named Siddhartha (realization of all aims) if there
+「何得落空？」				  had been even a single thing he had not penetrated."
+
+師曰︰
+「經論¶是紙墨文字，			  The Master said, "You, Venerable Vinaya Master, not only
+紙墨文字者俱空，			  incline to voidness, but you misuse your nouns."
+設於聲上建¶立名句等法，
+無非是空。
+坐主執滯教體，				  Fa Ming turned pale and asked, "In what point am I mistaken?"
+豈¶不落空？」
+
+法明					  The Master answered, "Venerable Sir, you are not yet well
+曰︰					  informed of the differences between Chinese words and Sanskrit
+「禪師落空否？」			  words. How then can you discourse on the sutras?"
+
+師曰︰
+「不落空。」				  Fa Ming demanded, "Pray, Master, indicate the point where I
+					  am in error."
+
+<pb:T_T51n2076_0247b>
+¶曰︰					  The Master said, "Don't you know that 'Hsi Ta' (Siddhartha,
+「何却不落空？」			  Siddham) means the Sanskrit alphabet?"
+
+師曰︰
+「文字等皆從智慧而生，			  The Vinaya Master realized his slip and was very angry with the
+¶大用現前，				  Master.
+那得落空？」
+
+法明曰︰				  He asked again, "Sutras, vinayas, sastras are taken from the
+「故知一法不達，			  Buddha's words, so why should we not get enlightenment by following
+¶不名悉達。」				  the doctrinal teaching?"
+
+					  �ne
+師曰︰
+「律師不唯落空，
+兼乃錯用名¶言。」			  The Master answered, "It is like a foolish dog running after a
+					  lump (of meat), or a lion biting a man. Sutras, vinayas and sastras
+法明作色，				  are (merely) the applications of the self-nature. Those who read them
+問曰︰					  are the principle of that nature."
+「何處是錯？」
+
+師曰︰					  Fa Ming asked, "Has Amitabha Buddha a father, a mother, and
+「律師未辨¶華竺之音，			  a family name, or not?"
+如何講說？」
+
+曰︰					  The Master replied, "Amitabha's family name is Chiao Shih
+「請禪師指出法明錯¶處。」		  Chia. His father was named Yueh Shang and his mother was named
+					  Excellent Looking Face."
+師曰︰
+「豈不知悉達是梵語邪？」
+律師雖省¶過，				  Fa Ming asked, "In which scriptural writing is this found?"
+而心猶憤然				  The Master answered, "It is in the Collection of Dharanis."
+(具梵語。				  Fa Ming bowed deeply in gratitude for his instruction and
+薩婆曷剌他悉陀。
+中國翻云一切義成。
+舊云悉達多。				  departed.
+猶是訛¶。
+
+略梵語也)				  There was a Tripitaka Master who asked, "Do changes occur
+又問曰︰				  in the Bhutatathata (the Reality, the Absolute) or not?"
+「夫經律論是佛語，
+讀誦依教奉¶行，
+何故不見性？」				  The Master said, "Yes, it has changes."
+
+師曰︰
+「如狂狗趁塊，				  The Tripitaka Master said, "Venerable Sir, you are mistaken."
+師子齩人。				  The Master asked in return, "Is there a thing called Bhutatathata
+¶經律論是自性用，			  or not?"
+讀誦者是性法。」
+
+法明曰︰				  The Tripitaka Master replicd, "Yes, there is."
+「阿¶彌陀佛有父母及姓否？」
+
+師曰︰					  The Master commented, "lf someone should say that Reality
+「阿彌陀姓憍尸¶迦，			  contains no change, he must be an ignorant fellow. Have you not heard
+父名月上，				  that a good teacher can change the three poisons (of greed, anger and
+母名殊勝妙顏。」			  stupidity) into the three cumulative precepts, transform the six senses
+					  into the six supernatural powers, turn defilements into bodhi, and turn
+曰︰					  ignorance into the great wisdom? If (you hold that) the Absolute
+「出何教文？」				  contains no change, then you, a Master of Tripitaka, are nothing but
+					  a heretic."
+師¶曰︰
+「出
+《陀羅尼集》。」			  The Tripitaka Master replied, "If this is so, then the Absolute
+法明禮謝，				  does have changes."
+讚歎而退。
+
+					  The Master commented, "If you insist on clinging to the idea
+有三藏¶法師問︰				  that the Absolute has changes, then you are also proving yourself a
+「真如有變易否？」			  heretic."
+
+師曰︰
+「有變易。」				  The Tripitaka Master declared, "O Master of Ch'an, you just
+					  said that the Absolute has changes, and now you declare that it has
+三藏¶曰︰				  no changes! Which is correct?"
+「禪師錯也。」
+
+師却問三藏︰				  The Master answered, "When one comprehends the nature of
+「有真如否？」				  all things clearly, one is like a crystal jewel which manifests different
+					  colors. It is correct to say that it changes, it is also correct to say
+曰︰					  that it does not change. When a man does not comprehend and is told
+「有。」
+					  196
+¶師曰︰
+「若無變易，
+決定是凡僧也。				  that Reality changes, he clings to (the idea of) those .changes; and
+豈不聞。				  when he is told of its changelessness, he clings to the changelessness."
+善知¶識者，
+能迴三毒為三聚淨戒，
+迴六識為六神¶通，			  The Tripitaka Master praised him, saying, "Now I truly understand
+迴煩惱作菩提，				  that the Southern School of Ch'an is unfathomable."
+迴無明為大智真如。
+若無¶變易，
+三藏真是自然外道也。」			  There was a Taoist follower who asked, "Is there anything in
+					  the world more wonderful than Nature?"
+三藏曰︰
+「若爾者，
+¶真如即有變易。」			  The Master said, "Yes, there is."
+
+師曰︰
+「若執真如有變易，			  The Tuoist asked, "What can surpass it?"
+亦是¶外道。」
+
+曰︰					  The Mastcr answered, "That which completely comprchends
+「禪師適來說真如有變易，		  Nature."
+如今又道¶不變易，
+如何即是的當？」
+					  He asked, "Is one's own constitution the Tao? ;'
+師曰︰
+「若了了見性者，
+¶如摩尼珠現色，				  The Master replied, "The constitution is simply the constitution;
+說變亦得，				  the Tao is simply the Tao."
+說不變亦得。
+若不¶見性人，
+聞說真如變，				  The Taoist said, "If that is so, then here are two separate things."
+便作變解；				  The Master said, "That which knows is not two men."
+聞說不變，
+便¶作不變解。」
+					  The Taoist asked another question: "What is wrong and what
+三藏曰︰
+「故知南宗實不可測。」
+					  is right?"
+
+有道¶流問︰
+「世間有法過自然否？」			  The Master answered, "It is wrong for mind to run after things,
+					  and it is right for things to follow mind."
+師曰︰
+「有。」
+					  A man named Vinaya Master Yuan came and asked, "Venerable
+曰︰					  Sir, when you practice the Way, do you achieve merit?"
+「何法過¶得？」				  The Master answered, "Yes, I do."
+
+師曰︰
+「能知自然者。」			  He asked, "In what way do you achieve merit?"
+
+曰︰
+「元氣是道否？」			  The Master answered, "I take food when I feel hungry, and when
+					  I am tired I take a nap."He
+師曰︰
+「元¶氣自元氣，
+道自道。」				  rémarked, "Everyone in the world does that! Does each man
+					  leading the same life as you, Venerable Sir, achieve merit?"
+曰︰					  The Master answered, "No, he does not."
+「若如是者，
+則應有二。」
+					  He asked, "Why not?"
+師¶曰︰
+「知無兩人。」
+					  The Master answered, "When he takes food he does not eat
+又問︰					  whole-heartedly but ponders over hundreds of matters, and when he
+「云何為邪？				  takes a nap he does not sleep whole-heartedly but worries about a
+云何為正？」				  thousand affairs. Hence, he is not like me."
+
+師
+<pb:T_T51n2076_0247c>			  The Vinaya Master was silenced.
+¶曰︰
+「心逐物為邪，
+物從心為正。」				  There was a venerable monk named Yun Kuang who asked,
+					  "Master do you know what your next incarnation will be?"
+有源律師來¶問︰
+「和尚修道還用功否？」
+					  The Master answered, "I have not yet died. What is the use of
+師曰︰
+「用功。」
+					  discussing my next life? [ realize that this life rests on the yearning
+曰︰					  for knowledge of the unborn, (but) I cannot attempt to affirm the potentialities
+「如何用¶功？」				  of the unborn except by the philosophy of that which is born.
+					  • The Patriarch has said that the fullness of life is [the other aspect of]
+師曰︰					  that which is unborn."
+「饑來喫飯，
+困來即眠。」
+					  Yun Kuang asked', "Can people understand this who have not
+					  yet comprehended what the Buddha-nature is?"
+曰︰
+「一切人總如¶是，
+同師用功否？」				  The Master answered, "People who have not themselves
+					  comprehended the Buddha-nature are not beings without the Buddhanature.
+師曰︰					  Seeing the Buddha-nature is being the Buddha-nature, and there
+「不同。」				  is no Buddha-nature which is invisible. Knowledge is Buddha-nature,
+					  therefore it is called knowledge-nature. When it is comprehended,
+曰︰					  it is no other than Buddha-nature and is called the comprehended
+「何故不同？」				  knowledge. That which can beget the ten thousand things is called
+					  dharma-nature, or sometimes dharmakaya. Asvaghosa, the Twelfth
+師¶曰︰					  Patriarch of the Ch'an transmission, said that the so-called dharma
+「他喫飯時不肯喫飯，			  means the mind of sentient beings; and because these minds are born,
+百種須索；				  all of the dharmas are born. Dharmas are not born unless the mind
+睡時不肯¶睡，				  is born, and accordingly no names can be discriminated. Deluded
+千般計校。				  people do not realize the fact that the dharmakaya has no form of
+所以不同也。」				  its own, but that it creates forms in accordance with things.
+律師杜口。				  Consequently (they say that) green, luxuriant bamboos are all the
+					  dhUnnakaya, and that melancholy, dying chrysanthemums can be
+有韞光¶大德問︰				  nothing but the expression of prajna. 1f this could be prajna, then
+「禪師自知生處否？			  prajna would be the same as non-sentient things! 1f grcen bamboos
+」					  could be the dhannakaya, then the dharmakaya would be identical
+					  with grass and trees! All people who eat bamboo sprouts would then
+師曰︰					  be eating the dharmakaya! How can such talk as this be recorded?
+「未曾死，				  While face to face with the Buddha, these people have been worrying
+何用¶論生？				  about him for innumerable ages, searching for him everywhere.
+知生即是無生法，			  In their delusion, they search for him outside themselves. But those
+無離生法說有無生。			  who comprehend the Tao are living within the Tao and do not violate
+¶祖師云︰				  the rules of the Tao, regardless of whether they are walking, standing,
+『當生即不生。』」			  sitting, or lying down. Those who comprehend the dhanna are totally
+					  free wherever they may be."
+曰︰
+「不見性人亦得如此¶否？」
+					  The venerable monk asked again, "Can the universe create
+師曰︰					  spiritual wisdom? Does the true mind reflect both the good and the
+「自不見性，				  bad? Can a greedy man be in accord with the Tao? lf a man clings
+不是無性。				  to right or wrong, will this lead to penetration of mind? Can a man
+何以故？				  who cherishes opinions be single-minded when he comes into contact
+見即是¶性，				  with objective states? Does a man who dwells in tranquility have
+無性不能見；
+識即是性，				  198
+故名識性；
+了即是¶性，
+喚作了性；				  wisdom? Is a self-respecting man egotistical? Is a man wise who clings
+能生萬法，				  to either voidness or being? Does a man who searches for documentary
+喚作法性，				  evidence show wisdom? Or he who seeks the Buddha by engaging
+亦名法身。				  in ascetic practices? Is he who seeks Buddha apart from the human
+¶馬鳴祖師云︰				  mind in accordance with the Way? Or he who clings to the view that
+『所言法者，				  human mind is the Buddha? I beg you, Master of Ch'an, to answer
+謂眾生心。				  these questions one by one."
+若心生故，
+¶一切法生；
+若心無生，				  The Master replied, "The universe does not create spiritual
+法無從生，				  wisdom; the true mind does not cherish ideas of good ,or bad; the
+亦無名字。』				  greedy man is limited in his capacity; a man has not penetrated right
+迷¶人不知法身無象，			  and wrong if he strives with others over them; the man who cherishes
+應物現形，				  ideas when he comes into contact with objective states has little
+遂喚青青翠竹¶總是法身，			  samadhi; the man who is tranquil, forgetting his own capacity, declines
+欝欝黃華無非般若。			  in wisdom; the self-respecting man is egotistical. The man who clings
+黃華若是般¶若，				  to either voidness or being is stupid; the man who searches documents
+般若即同無情；				  tior facts becomes more and more impeded by them; he who seeks
+翠竹若是法身，				  for the Buddha by engaging in ascetic practice is deluded by it; the
+法身即同¶草木。				  man who seeks for the Buddha outside the human mind is a heretic;
+如人喫，				  and he who clings to the view that the human mind is the Buddha
+筍。					  is a devil."
+應總喫法身也。
+如此之言，
+寧¶堪齒錄？				  The venerable monk said, "If what you say is true, there is no
+對面迷佛，
+長劫希求，
+全體法中，				  one ultimately who is not one of these subjects under consideration."
+迷而¶外覓。				  The Master replied, "One who is right, ultimately, is yourself,
+是以解道者，
+行住坐臥無非是道；
+悟法¶者，				  Venerable Monk."
+縱橫自在無非是法。」
+
+					  The venerable monk danced for joy and prostrated himself in
+大德又問︰				  appreciation before he left.
+「太虛能生¶靈智否？
+真心緣於善惡否？
+貪欲人是道否？				  MASTER WEI CHENG of Po Chang Monastery in Hung State said
+執¶是執非人向後心通否？			  one day to his congregation, "You cultivate the rice field for me,
+觸境生心人有定否？			  and I will speak on the great principle for you."
+¶住寂寞人有慧否？
+懷傲物人有我否？
+執空執¶有人有智否？			  The monks worked in the rice field, and in the evening, when
+尋文取證人				  the Master ascended the pulpit, a monk said, "We have finished
+、					  cultivating the rice field. Please, Master, preach on the great
+苦行求佛人、				  principlel"
+離心¶求佛人、
+執心是佛人，
+此智稱道否？				  The Master came down from the Ch'an seat, took three strides,
+請禪師一¶一為說。」			  spread out his arms, looked at the heaven and the earth, and said,
+					  "The rice field of the great principle is here, now."
+師曰︰
+「太虛不生靈智，			  There was an elder monk who, looking at a sunbeam falling threw
+真心不緣善¶惡，				  a window, asked, "Which of the two, the sun or the window,
+嗜欲深者機淺，
+是非交爭者未通，
+觸境生¶心者少定，			  approached the other?"
+寂寞忘機者慧沈，
+傲物高心者我
+<pb:T_T51n2076_0248a>			  The Master answered, "There came a visitor to your house,
+¶壯，					  Venerable Monk. You had better go home."
+執空執有者皆愚，
+尋文取證者益滯，
+苦行¶求佛者俱迷，			  Wei Cheng (before he became a Master) asked Nan Ch'uan,
+離心求佛者外道，			  "Have some masters a message which they have not told to anybody?"
+執心是佛者¶為魔。」			  Nan Ch'uan answered, "Yes, they have."
+
+大德曰︰
+「若如是，				  Wei Cheng asked, "What is the teaching never spoken to
+應畢竟無所有。」			  anybody'?"
+
+師曰︰
+「畢¶竟是大德，				  Nan Ch'uan said, "It is not the mind, it is not the Buddha, it
+不是畢竟無所有。」			  is not a thing."
+大德踊躍禮謝¶而去
+(此下舊本有洪州百丈山惟政禪師傳今移在第九卷百丈山海和尚下encountered an official. As he was ordering a meal, he suddenly saw
+)。¶					  Wei Cheng rernarked, "If it is so, it has been spoken to people."
+					  Nan Ch'uan said, "This is my answer."
+
+
+洪					  Wei Cheng askcd, "What is your opinion, elder brother?"
+州泐潭法會禪師，			  He said, "1 am not a Ch'an master; how should I know about
+問馬祖︰				  spoken or unspoken messages?"
+「如何是西來祖¶師意？」
+
+祖曰︰					  Wei Cheng said, "I do not understand. Please, elder brother,
+「低聲，				  explain it for me."
+近前來。」
+師便近前。
+					  A monk asked, "For what reason is the Buddha identical with
+祖打一摑，				  the Buddha-dharma?"
+¶云︰
+「六耳不同謀，
+來日來。」				  Master Wei Cheng answered, "It is because of his samadhi."
+
+師至來日，
+猶入法堂¶云︰				  One day the Master went to the capital, and on the way he
+「請和尚道。」
+					  an ass braying. The official called out, "Venerable Monk!" When
+祖云︰					  the Master turned his head, the official pointed at the ass, and the
+「且去！				  Master pointed at the official.
+待老漢上堂時出¶來，
+與汝證明。」
+					  MASTER FA HUI of Ch'ieh T'an Monastery in Hung State asked
+師乃悟云︰				  Master Ma Tsu, "What is the message of the Patriarch (B(dhidhanma)
+「謝大眾證明。」			  coming from the West?"
+乃繞¶法堂一匝便去。¶
+
+池州杉山智堅禪師，			  Ma Tsu answered, "Come forward, and I will whisper it to you."
+初與歸宗、
+南泉行脚時，
+¶路逢一虎，				  When he canne close to the Master, Ma Tsu gave him a slap and
+各從虎邊過了。				  said, "Six ears (three men) do not agree when dealing together. Come
+南泉問歸宗云︰				  back tomorrow.''
+「適¶來見虎似箇什麼？」
+
+宗云︰					  On the next day Fa Hui went into the lecture hall and said,
+「似箇猫兒。」				  "Master, please speak about that matter."
+
+宗却問師，				  200
+¶師云︰
+「似箇狗子。」
+					  Ma Tsu said, "Go away for a little whilc and wait until the old
+宗又問南泉，				  man (the master of the monastery) goes up into the pulpit. Come out
+泉云︰					  then; I will approve of you."
+「我見是箇¶大蟲。」
+
+師喫飯次，				  Fa Hui comprehended what Mastcr Ma Tsu mcant, and said,
+南泉收生飯云︰				  "Thanks to the approval of the congregation." He walked once around
+「生。」				  the lecture hall and departed.
+
+
+師云︰					  MASTER CHIH CHIEN of Shan Shan Monastery in Ch'ih State was
+「無生。」				  beginning his study-pilgrimage with Kuei Tsung and Nan Ch'uan.
+					  As they were travelling along the road they encountered a tiger. They
+¶南泉云︰				  each passed alongside this tiger.
+「無生猶是末。」
+
+南泉行數步，				  Nan Ch'uan said to Kuei Tsung, "Just now we saw a tiger. What
+師召云︰				  did it resemble?"
+「長¶老！
+長老！」
+					  He answered, "It resembled a cat."
+南泉迴頭云︰
+「怎麼？」
+					  Kuei Tsung asked Chih Chien (what it resembled). He answered,
+師云︰					  "It was rather like a dog."
+「莫道是末。」
+
+					  Kuei Tsung then asked Nan Ch'uan. Nan Ch'uan answered, "1
+一¶日，					  saw a tiger."
+普請擇蕨菜，
+南泉拈起一莖云︰
+「遮箇大好¶供養。」			  On one occasion when the Master took a meal, Nan Ch'uan
+					  collected the food put aside for hungry ghosts, saying, "Contribution
+師云︰					  to ghosts!"
+「非但遮箇，
+百味珍羞他亦不顧。」
+					  The Master said, "No contribution."
+¶南泉云︰
+「雖然如此，
+箇箇須嘗他始得。			  Nan Ch'uan commented, "No contribution is the end of the
+(」					  comprehension of the Tao."
+
+玄覺云︰
+「是相見語？				  When Nan Ch'uan had walked away several steps, the Master
+不¶是相見語？)」			  called out, "Venerable Monk, Venerable Monk!"
+
+僧問︰
+「如何是本來身？」			  "What is the matter?" asked Nan Ch'uan, turning his head.
+					  The Master said, "Don't say it is the end [of the comprehension
+師云︰					  of the Taol."
+「舉世無相似。」
+¶
+					  One day all the monks were instructed to work together collecting
+洪州泐潭惟建禪師，			  bracken sprouts for food. Holding up a stem, Nan Ch'uan stated,
+一日，					  "This is very good for feeding brothers."
+在馬祖法堂後坐¶禪。
+祖見，
+乃吹師耳。				  The Master commented, "They would not care for it—not only
+兩吹，					  this food, but hundreds of dainty foods."
+師起定，
+見是和尚，
+却¶復入定。				  Nan Ch'uan remarked, "However that may be, after they have
+祖歸方丈，				  tasted them they will appreciate each of them for the first time."
+令侍者持一椀茶與師，			  *
+師¶不顧，
+便自歸堂。¶				  201
+
+澧州茗谿道行禪師。
+師有時云︰				  A monk asked, "What is the original being?"
+「吾有大病，
+非¶世所醫。」
+					  The Master answered, "Nothing in the world resembles it."
+後有僧問先曹山︰			  * * *
+「承古人有言︰
+『吾有¶大病，
+非世所醫。』				  MASTER WEI CHIEN of Ch'ieh T'an Monastery in Hung State was
+未審喚作什麼病？」			  one day sitting in meditation at the back of the lecture hail. Master
+					  Ma Tsu looked at him and pulled his ear twice. Arising from his
+曹云︰					  samadhi and finding that it was the Master who had disturbed him,
+「攢簇					  Wei Chien re-entered his samadhi. Master Ma Tsu then went back
+<pb:T_T51n2076_0248b>			  to the master'squarters and instructed his attendant to make a cup
+¶不得底病。」				  of tea to offer to Wei Chien. Wei Chien did not pay any attention
+					  to him, however, and remained in the hall. *
+云︰
+「一切眾生還有此病也無？」
+					  MASTER TAO HSING of Ming Ch'i Monastery in Li State said on
+曹云︰					  one occasion, "1 have a great illness which cannot be cured in any
+「¶人人盡有。」				  ordinary way."
+
+云︰
+「人人盡有，				  Years later there was a monk who said to Ts âo Shan (840-901
+和尚還有此病也無？」			  A. D.), "I have heard that an ancient monk said he had a great
+					  lness which could not be cured in any ordinary way. I wonder what
+¶曹云︰					  kind of ilhtess this could have been."
+「正覓起處不得。」
+
+云︰					  Ts âo Shan said, "1t ntust have been the illness that crowds of
+「一切眾生為什麼不¶病？」		  people suffer from."
+
+曹云︰
+「眾生若病，				  17te monk asked, "Do all sentient beings have this illness?"
+即非眾生。」				  Ts'ao Sha►t replied, "Yes, they have. "
+
+云︰
+「未審諸佛還¶有此病也無？」		  The monk said, "If every one of them has it, do you, Master,
+					  have suffering from this illness or not?"
+
+曹云︰
+「有。」				  Ts'ao S/tan said, "Althottgh I have searched for where it ra►ne
+					  fro►n, 1 do not have it. "
+云︰
+「既有，
+為什麼不病？」				  The nto» tk asked, "Why do all sentient beings not sttQ'er from this
+					  illr►ess? ".
+曹¶云︰
+「為伊惺惺。」
+					  1's'ao S/ta►t said, "If 'sentient beings' suffer from this illnc�ss, they
+僧問︰					  are not sentie►tt bei►tgs. "
+「如何修行？」
+
+師云︰					  71te mank said, "1 wonder if Buddhas have this illness or ttot. "
+「好箇阿¶師莫客作。」			  Ts'ao Shan said, "Yes, they do."
+
+僧云︰
+「畢竟如何？」				  The monk asked ,"If they have it, why do they not su„ jfer from it?"
+					  Ts 'ao Shan said, "Because their eyes are open."
+師云︰
+「安置即不¶堪。」
+					  A monk asked, "How are we to train ourselves [to be free of
+又僧問︰				  the iilnessi?"
+「如何是正修行路？」
+
+師					  The Master answered, "Such an excellent monk! Don't become
+云︰					  a big-headed monk."
+「涅槃後¶有。」
+
+僧云︰					  The monk asked, "Well, afler all, what should i do?"
+「如何是涅槃後有？」
+					  202
+師云︰
+「不洗面。」
+					  The Master answered, "If you set yourself up in a state, you
+僧¶云︰					  cannot keep it for long."
+「學人不會。」
+
+師云︰					  The monk said, "What is the path of the right training?"
+「無面得洗。」				  The Master answered, "It will be after your death."
+¶
+
+撫州石鞏慧藏禪師，			  The monk demanded, "What will happen after my death?"
+本以弋獵為務，				  The Master said, "You won't wash your face."
+惡見沙¶門，
+因逐群鹿從馬祖庵前過，
+祖乃逆之。				  The monk said, "I do not understand you."
+藏¶問︰
+「和尚見鹿過否？」
+					  The Master repeated, "You will not wash your face any more."
+祖曰︰					  * * *
+「汝是何人？」
+
+曰︰					  MASTER Hl1i TS'ANG of Shih Kung Monastery in Fu State was
+「獵者。」				  formerly a professional hunter, and hated to see a monk. One day
+					  he was chasing a deer and came across the retreat of Master Ma Tsu,
+¶祖曰︰					  who welcomed him.
+「汝解射否？」
+
+曰︰					  Ilui Ts'ang asked, "Venerable Sir, have you seen a deer passing
+「射射。」				  through here?"
+
+祖曰︰
+「汝一箭射幾¶箇？」			  Ma Tsu asked, "Who are you?"
+
+曰︰
+「一箭射一箇。」			  lie answered, "1 am a hunter.'►
+
+祖曰︰
+「汝不解射。」				  Ma Tsu asked, "Do you know how to shoot?"
+
+曰︰
+「和尚解¶射否？」			  The hunter replied, "Yes, I do."
+
+祖曰︰
+「解射。」				  Ma Tsu asked, "How many deer do you shoot with one arrow?"
+
+曰︰
+「和尚一箭射幾箇？」			  Ma Tsu commented, "You have no understanding of shooting."
+
+祖曰︰
+「¶一箭射一群。」			  The hunter asked, "Have you, Venerable Sir, an understanding
+					  of shooting?"
+曰︰
+「彼此是命，
+何用射他一群？」			  Ma Tsu said, "Yes, I have."
+
+祖¶
+曰︰					  The hunter asked, "How many deer, Master, do you shoot with
+「汝既知如是，				  one arrow?"
+何不自射？」
+
+曰︰					  Ma Tsu said, "I shoot the whole herd with one arrow. ►'
+「若教某甲自射，
+¶即無下手處。」
+					  The hunter said, "They all have lives; why do you need to shoot
+祖曰︰					  the whole herd at once?"
+「遮漢曠劫無明。
+煩惱，
+今日¶頓息。」				  Ma Tsu replied, "If you are aware of the principle, why don't
+藏當時毀棄弓箭，			  you shoot yourself?"
+自以刀截髮，
+投祖出¶家。
+					  The hunter said, "If you made me shoot myself, I would not touch
+一日，					  with my hands."
+在厨中作務次，
+祖問曰︰
+「作什麼？」				  Ma Tsu remarked, "Suddenly, today, this fellow has stopped the
+					  ignorance and delusions which have been his through long aeons.►►
+曰︰
+「¶牧牛。」
+					  Then Hui Ts'ang snapped his bow and arrows into pieces, cut
+祖曰︰					  off his hair with his sword, and became a homeless monk, submitting
+「作麼生牧？」				  himself to Ma Tsu.
+
+曰︰					  203
+「一迴入草去，
+便把鼻¶孔拽來。」
+					  One day when Hui Ts'ang was working in the kitchen, Ma Tsu
+祖曰︰					  asked, "What are you doing?"
+「子真牧牛。」
+師便休。
+					  Hui Ts'ang answered, "I am feeding an ox,"
+師住後常以¶弓箭接機
+(如。
+					  Ma Tsu asked, "How do you feed it?"
+
+三平和尚章述之)
+師問西堂︰				  Hui Ts'ang said, "I take it out to pasture, and when it goes astray
+「汝還解捉得虛¶空麼？」			  I drag it home by gripping its nose."
+
+西堂云︰
+「捉得。」				  Ma Tsu remarked, "You are truly an ox-herder."
+
+師云︰
+「作麼生捉？」				  Then Hui Ts'ang took a respite.
+堂以手¶撮虛空。
+
+師云︰					  Afterwards, when he became the master of a monastery, he dealt
+「作麼生恁麼捉虛空？」			  with students by using his bow and arrow.
+
+堂却問︰
+「師¶兄作麼生捉？」			  Master Hui Ts'ang asked a monk from the western hall, "Do
+					  you know how to seize the universe?"
+師
+把西堂鼻孔拽，
+西堂作忍痛¶聲。				  The monk from the western hall said, "Yes, I do."
+云︰					  The Master asked, "How do you seize it?,"
+「大殺拽人鼻孔，
+直得脫去。」
+					  (In mime) the monk took up the universe with his hands.
+師云︰					  The Master asked, "How can that grasp the universe?"
+「直須恁¶麼捉虛空始得。」
+
+眾僧參次，				  The monk asked back, "How do you grasp the universe, elder
+師云︰
+「適來底什麼
+<pb:T_T51n2076_0248c>			  brother?"
+¶處去也？」
+
+有僧云︰				  The Master dragged the monk by his nose to the western hall.
+「在。」				  The monk cried, "It hurts me!" Then he added: "You are
+					  dragging a man by the nose."
+師云︰
+「在什麼處？」
+其僧彈指¶一聲。				  The Master said, "This is the way to seize the universe in order
+					  to get it."
+僧到禮拜，
+師云︰
+「還將那箇來否？」			  When the monks had Ch'an interviews with the Master, he asked
+					  them, "Where were you just now?"
+僧云︰
+「¶將得來。」
+					  One monk answered, "I was here."
+師云︰
+「在什麼處？」
+僧彈指三聲。				  The Master asked, "Where are you?" The monk snapped his
+					  fingers.
+問︰
+「如何¶免得生死？」
+					  A monk went to the Master and bowed down. The Master asked
+					  him, "Have you brought that one with you or not?"
+師云︰
+「用免作什麼？」
+					  The monk answercd, "Yes, I havet"
+僧云︰
+「如何免¶得？」
+					  The Master asked, "Where is it?"
+師云︰
+「遮底不生死。」¶
+					  The monk snapped his fingers three times.
+唐州紫玉山道通禪師者，
+廬江人也，
+姓何氏。				  A monk asked, "How can we escape from life and death?"
+¶幼隨父守官泉州南安縣，			  The Master asked back, "What will you do when you escape?"
+因而出家。
+唐天寶¶初，				  204
+馬祖闡化建陽，
+居佛迹巖，
+師往謁之。				  The monk repeated, "Fi®w can we escape?"
+尋遷¶於南康龔公山，
+師亦隨之。
+貞元四年二月初，			  The Master said, "Here is„ no life, no death."
+¶馬祖將歸寂，
+謂師曰︰
+「夫玉石潤山秀麗，			  * *
+益汝¶道業，
+遇可居之。」
+師不曉其言。				  MASTER TAO T'UNG of Tzu Yu (Purple Jade) Monastery in T'ang
+					  State was a man from Lu Chiang; his surname was Ho. When young
+是秋，					  he succeeded his father as magistrate of Nan An Prefecture in Ch'uan
+與伏牛山¶自在禪師同遊洛陽。		  State; later he became a homeless monk. Early in T'ien Pao era (742755
+迴至唐州，				  A.D.) of T'ang he visited Master Ma Tsu, who had established
+西見一山，				  his teaching in Chien Yanb and lived in,Buddha Trace Cave. When
+四¶面懸絕，				  Ma Tsu later moved to Kung Kung Monastery in Nan K'ang, Tao
+峯巒秀異，				  T'ung followed him. Early in February in the fourth year of the era
+因詢鄉人，				  of Cheng Yuan (788 A.D.), Master Ma Tsu said, just before he died,
+云是紫玉山。				  "If the jade stone glistens and the mountain is extremely beautiful,
+師¶乃陟山頂，				  your spiritual work will increase. When you come across them, remain
+見有石方正，				  there." The Master did not grasp the meaning of these words.
+瑩然紫色，
+歎曰︰
+「此其¶紫玉也！」			  In the fall of the year he visited Loyang with Master Tzu Tsai
+始念先師之言，				  of Fu Niu Monastery. When he reached T'ang State he saw in the
+乃懸記耳，				  west a solitary mountain whose peaks and ridges were different from
+遂剪茆構¶舍而居焉，
+後學徒四集。
+					  those of other mountains. He asked its name, and a villager told him,
+僧問︰					  ,
+「如何出得三界？			  "It is called Purple Jade Mountain." The Master then climbed up
+」
+
+¶師云︰					  to the top of the mountain. Looking at the square-cut, glistening stone,
+「汝在裏許得多少時也？」		  he recalled the words of his late teacher and realized they were a
+					  prediction. Thereupon, he cut down the water-mallows on that spot
+僧云︰					  and constructed a house to live in. In later days this was a gatheringplace
+「如何出離？」				  for students from all directions,
+
+¶
+師云︰					  A monk asked, "What is the way to escape from the three worlds
+「青山不礙白雲飛。」			  (of sense desire, physical form, and pure spirit)?"
+
+于頔相公問︰
+「如何是¶黑風吹其船舫，			  The Master replied, "How long have you been in them?"
+漂墮羅剎鬼國？」			  The monk persisted, asking, -` `How can one get out of them?"
+					  The Master answered, "Green mountains do not obstruct the
+師云︰
+「于頔客作¶漢！
+問恁麼事怎麼？」			  passing through of white clouds."
+于公失色。
+
+師乃指云︰				  Prime Minister Yu Thi asked, "What is meant by [the saying
+「遮¶箇是漂墮羅剎鬼國。」		  in the Lotus Sutra that] `a stormy wind may blow ships down to the
+					  land of man-eating ghosts'?"
+于又問︰
+「如何是佛？」
+師¶喚于頔，				  The Master scolded, "What is the use of servant Yu Thi asking
+頔應諾。				  about such a matter?"
+
+師云︰
+「更莫別求。				  At this Yu Thi turned Dale (feeling ashamed of his inadequate
+(」
+					  205
+有僧舉似藥山，
+藥山云︰
+「縛殺¶遮漢也。」			  questioning]. Pointing at him, the Master remarked, "This is a falling
+					  into the land of man-eating ghosts."
+僧云︰
+「和尚如何？」
+					  Another time, the Minister asked, "What is the Buddha?"
+藥山亦喚云︰				  The Master called out, "Yu Thi!"
+「某甲！」
+僧應諾。
+					  Yu Thi responded, "Yes, Master?"
+藥山云︰
+「是什麼？)」
+					  The Master said, "Don't seek for him apart [from yourself]."
+元和八年，				  There was a monk who (later) related this story to Master Yo Shan,
+弟子金¶藏參百丈迴，			  who remarked, .'`He bound that man to death."
+禮覲，
+師云︰
+「汝其來矣。				  The monk asked, "How would you say it, Master?"
+此山有主¶也！」
+於是囑付金藏訖，
+策杖徑去，				  Yo Shan likewise called the monk by his name, and when he
+襄州道俗迎¶之。				  responded "Yes, Master?" Yo Shan demanded, "What is this?"
+至七月十五日，
+無疾而終，
+壽八十有三。¶				  One of the Master's disciples, Chin Ts'ang; had been studying
+					  under Master Po Chang. In the eighth year of the Yuan Ho era (813
+江西北蘭讓禪師，			  A.D.) he returned from Po Chang to visit the Master, who said to
+湖塘亮長老問︰				  him, "You have come to be the host of this monastery."
+「伏承師兄¶畫得先師真，
+暫請瞻禮。」
+師以兩手撥胸開示¶之，			  Entrusting the monastery to Chin Ts'ang, the Master took his
+亮便禮拜。				  stick, left the monastery, arid took a short-cut to Jang State. There
+					  he was welcomed both by monks and by laypeople. Without any illness
+					  he closed his life on July 15th, when he was 83 years of age.
+師云︰
+「莫禮！
+莫禮！」				  MASTER PO LAN JANG of Kiang Hsi was asked by Elder Liang,
+					  "I have heard of your making a portrait of our late teacher; may I
+亮云︰					  ask for the privilege of seeing it for a little while?" The Master
+「師兄錯				  uncovered his breast with his two hands and showed it to him. Liang
+<pb:T_T51n2076_0249a>			  prostrated himself, but the Master said, "Don't worship me, don't
+¶也！					  worship me!" Liang said, "You are mistaken, elder brother, I was
+某甲不禮師兄。」			  not worshipping you."
+
+師云︰
+「汝禮先師真？」			  The Master said, "You were worshipping the portrait of your
+					  late teacher."
+亮云︰
+「¶因什麼教某甲莫禮？」
+					  Liang asked, "Why did you not allow me to worship it?"
+師云︰					  The Master said, "What ls the mistitake I have made?"
+「何曾錯？」¶
+
+洛京佛光如滿禪師			  MASTER JU MAN of Hu Kuang Monastery m Loyang, who formerly
+(曾，					  lived in Golden Pavilion Temple at Wu T'ai Shan, was asked by
+住五臺山金閣寺)				  Emperor Shun Tsung (805 A.D.), "Whenre did the Buddha come,
+唐順宗問︰				  and whither has he gone? Ile is sAid to live forever where he is now."
+「佛從¶何方來？				  The Master said, "'i'he Buddha came from non-uction and
+滅向何方去？
+既言常住世，				  206
+佛今在何¶
+處？」
+					  returned to non-action after his extinction. The Dharmakaya is equal
+					  to the universe and is the place where mindlessness eternally prevails.
+師答曰︰				  Mindfulness returns to mindlessness, and abodefulness returns to
+「佛從無為來，				  abodelessness. The coming [of the Buddhaj is for the sake of sentient
+滅向無為去，				  beings and the disappearing [of the Buddha) is for the sake of sentient
+法身等¶虛空，				  beings. The pure and clean ocean of Reality is profound and everdwelling
+常在無心處。				  in its basic nature. Men of wisdom must be fully mindful
+有念歸無念，				  of this and never cherish doubts [about it)."
+有住歸無住。
+¶來為眾生來，
+去為眾生去。				  The Emperor then stated, "'I'he Buddha was born in his royal
+清淨真如海，				  palace and died at the Twin Grove. Ele preached in the world for 49
+湛然¶體常住。				  years and said that there was no teaching to deliver. Mountains, rivers,
+智者善思惟，				  oceans, heaven and earth, and the sun and the moon must all return
+更勿生疑慮。」				  to something when the time comes. Who can say that he is free from
+					  birth and death? Questions like this must arise, and men of wisdom
+帝又問︰				  would do well to discern them."
+「佛¶向王宮生，
+滅向雙林滅，
+住世四十九，				  The Master answered, "The Buddha-nature is originally nonaction,
+又言無¶法說。				  but those with deluded views discriminate things at random.
+山河及大海，				  The Dharmakaya is equal to the universe, and is free of life and death.
+天地及日月，				  It appears in the world when sub-causes prevail, and it is extinguished
+時至皆歸盡，				  when they pass away. It transforms sentient beings everywhere like the
+¶誰言不生滅？				  moon in the water. It is neither permanent nor impermanent. lt is
+疑情猶若斯，				  neither living nor dead. It is neither one-not-yet-born nor one-notyet-extinct.
+智者善分別。」				  For one who comprehends the mindlessness, there would
+					  be no teaching to be delivered,"
+師答¶曰︰
+「佛體本無為，
+迷情妄分別；				  Having heard this sermon, the Emperor was very much pleased
+法身等虛空，				  and increasingly esteemed Ch'an teaching.
+未¶曾有生滅。
+有緣佛出世，
+無緣佛入滅，				  MASTER TAO MING of Nan Yuan Monastery in Yuan State once
+處處化¶眾生，				  mounted the lecture platform and gave this sermon: "A fast horse
+猶如水中月。				  needs only a touch of the whip, and an intelligent man needs only
+非常亦非斷，				  a hint. If you have an affair to settle, why don't you come forward
+非生亦非滅，				  and discuss it with me? If you have no affair to settle, save
+¶生亦未曾生，				  yourselves." Then he descended from the lecture platform.
+滅亦未曾滅。
+了見無心處，
+自然¶無法說。」				  A monk asked, "What is one word of hint?"
+帝聞大悅，
+益重禪宗。¶
+					  The Master sighed and said, "I wish I had a tongue broad enough
+袁州南源道明禪師，			  and long enough to tell you all about it."
+上堂云︰
+「快馬一鞭，
+快人¶一言。				  Tung Shan came for a Ch'an interview, but when he was about
+有事何不出頭來？			  to go up to the lecture platform, the Master announced, "The interview
+無事各自珍重。」			  has already finished." Tung Shan then went away from the hall.
+便下¶堂。
+					  207
+有僧問︰
+「一言作麼生？」
+					  The next day he came back and said, "Yesterday, Master, you
+師乃吐吞云︰				  treated me with all benevolence, but I don't understand when it was
+「待我有¶廣長舌相。			  you interviewed me."
+即向汝道。」
+
+洞山來參，				  The Master answered, "Every idea flows into the Nature-ocean
+方上法堂，				  without cessation."
+師¶云︰
+「已相看了也。」
+洞山便下去。				  Tung Shan said, "I would almost have neglected it."
+
+
+至明日，				  When Tung Shan was about to leave, the Master remarked, "You
+却上問¶云︰
+「昨日已蒙和尚慈悲，
+大知什麼處是與。			  large."
+某¶甲已相看處？」
+
+師云︰					  Tung Shan replied, "Putting aside the matter of much learning
+「心心無間斷，				  of Buddha-dharma, what is meant by profiting people at large?"
+流入於性海。」				  The Master said, "It means to obey nothing."
+
+¶洞山云︰
+「幾					  A monk asked, "What is meant by the Buddha?"
+放過。」
+
+洞山辭去，				  The Master answered, "You should not answer that you are one!"
+師云︰					  * * *
+「多學佛法，
+廣¶作利益。」
+					  MASTER TZU MAN of Li Village in Hsin State stated from the
+洞山云︰				  pulpit: "It has been the same in all times, ancient and modern; things
+「多學佛法即不問，			  are natural as they are. How else could they be? However they are,
+如何是廣¶作利益？」			  they are. This is the great matter, and this is a thing which is beyond
+					  a man to deal with."
+師云︰
+「一物莫違即是。」
+					  At this, a monk said, "Please, Master, speak straightforwardly
+僧問︰
+「如何是¶佛？」
+					  about the matter without touching on times ancient and modern."
+師云︰					  The Master answered, "Yes, I know there are some things which
+「不可道爾是也。」¶
+
+忻州酈村自滿禪師，			  you cannot manage to dcal with."
+上堂云︰
+「古今不異，
+法爾¶如然，				  The monk wished to proceed with the conversation, but the Master
+更復何也？				  said, "I thought that I might have fallen into the topic of ancient and
+雖然如此，				  modern."
+遮箇事大有人
+<pb:T_T51n2076_0249b>
+¶罔措在。」				  The monk asked, "What is the right thing to do?"
+
+
+時有僧問︰				  The Master answered, "A fish ascends into the blue sky, but it
+「不落古今，				  cannot fly above its station."
+請師直道。」
+
+師云︰					  The monk asked, "How can it be rid of the difficulty?"
+「¶情知汝罔措。」
+僧欲進語。
+					  The Master answered, "If it were a dragon, who would argue
+師云︰					  about its altitude?"
+「將謂老僧落伊¶古今？」
+
+僧云︰					  The monk bowed low. The Master asked, "Are you suffering
+「如何即是？」				  or arc you bending down? Who could be like this?"
+
+師云︰
+「魚騰碧漢，				  *
+階級難¶飛。」
+
+僧云︰					  One day the Master said to the congregation, "'1'he daytime is
+「如何即得免茲過咎？」			  bright and the nighttime is dark. What clse, apart from these, can
+
+師云︰					  208
+「若是龍形，
+¶誰論高下？」
+其僧禮拜。				  you speak of to save yourselves?"
+
+師云︰
+「苦哉！				  At this, a monk asked, "What is the statement beyond all
+屈哉！					  arguments?"
+誰人似¶我？」
+
+師一日謂眾曰︰				  The Master said, "It disturbs the heaven and upsets the earth."
+「除却日明夜暗，
+更說什麼。
+¶即得？					  MASTER HUNG EN of Chung City in Liang State received Yang
+珍重！」				  Shan when he returned to the Master to thank him for having given
+					  him the Precepts when he was ordained. Seated on the Ch'an couch,
+時有僧問︰				  the Master watched him arriving, clapped his hands and chuckled
+「如何是無諍之句？」			  "Ohol" Yang Shan first stood at the eastern corner of the hall, then
+					  at the western corner, then at the center. Finally he stood at the back
+師云︰					  of the hall and expressed his gratitude for the Precepts.
+「¶喧天動地。」¶
+
+朗州中邑洪恩禪師。			  The Master asked, "Where did you gain this samadhi?"
+仰山初領新戒到謝戒，			  Yang Shan answered, "I learned it at Ts'ao Ch'i [MonasteryJ,
+¶師見來，				  escaping from receiving the seal."
+於禪床上拍手云︰
+「和！
+和！」					  The Master said, "Tell me, with whom did (MasterJ Ts'ao Ch'i
+仰山即東邊¶立，				  have dealings regarding this samadhi?"
+又西邊立，
+又於中心立，
+然後謝戒了，				  Yang Shan replied, "He dealt with the One Night Lodging Monk
+却退¶後立。				  (Nsuan Chiao, 665-713 A.D.)."
+
+
+師云︰					  Then he asked in turn, "From whom did you learn this samadhi,
+「什麼處得此三昧？」			  Venerable Sir?"
+
+仰云︰
+「於曹谿脫¶印子學來。」			  The Master said, "I learned it at Master Ma Tsu's place."
+
+師云︰
+「汝道曹谿用此三昧接什麼¶人？」		  Yang Shan asked, "How can one experience the seeing nature?"
+
+仰云︰
+「接一宿覺用				  The Master answered, "Suppose that there is a house with six
+此三昧。」				  windows, in which there lives a monkey. If someone calls out at the
+					  eastern corner, `Yang Shan, Yang Shan!' then someone will respond
+仰云︰					  `Yang Shan, Yang Shan!' If the same calls are made at each of the
+「和尚什麼¶處得此三昧來？」		  six windows, then, similar responses will be made."
+
+師云︰
+「某甲於馬大師處學此¶三昧。」		  Yang Shan bowed in appreciation for the instruction; then standing
+					  up he said, "Venerable Sir, I have comprehended all the teaching
+問︰					  that you have given through this metaphor. There is only one thing
+「如何得見性？」			  I have not comprehended: what should I do if the inner monkey is
+					  asleep when the outer monkey wishes to meet with him?"
+師云︰
+「譬如有屋，
+屋有六¶窓，				  Coming down from the rope-couch, the Master took the hands
+內有一獼猴，				  of Yang Shan and skipped with joy, saying, "Yang Shan, Yang Shan,
+東邊喚山山，				  I have met with you! It can be compared to the finest caterpillar, living
+山山。					  on the eyelash of a mosquito, and crying out at the crossroads, 'The
+應，					  earth is boundless and men are so rare that few people may meet with
+如是六¶窓俱喚俱應。」			  them!"'
+
+仰山禮謝起，				  209
+云︰
+「所蒙和尚譬喻，
+¶無不了知。				  MASTER HUAI HAI of Po Chang Monastery in Hung State was a
+更有一事，				  man from Ch'ang Lo of Fu State. When still only a young child he
+只如內獼猴困睡，			  left the dust (of the.world] and acquired full knowledge of the Three
+外獼¶猴欲與相見，			  Learnings. His Master was Ta Chi (Ma Tsu Tao I), who effected the
+如何？」				  transformation at Nan K'ang. Huai Hai followed him devotedly, and
+					  became known as an 'enterer into the room' along with Hsi T'ang
+師下繩床，				  Chih Ts'ang and Nan Ch'uan P'u Yuan. These three great ones strove
+執仰山手。				  for mastery. One evening the three of them followed Ma Tsu when
+作舞，					  he went out to enjoy the moon. Ma Tsu askcd, "At this moment how
+¶云︰					  do you feel?"
+「山山與汝相見了，
+譬如蟭螟蟲。
+在蚊子眼¶睫上作窠，			  Ilsi T'ang said, "It is good, just enjoying oneself."
+向十字街頭叫喚云︰
+『土曠人稀，
+相¶逢者少。				  Huai Hai said, "It is good, just practicing meditation."
+(』」
+
+雲居錫云︰				  Nan Ch'uan left the place, shaking his sleeve (in disapproval).
+「中邑當時若不得仰山遮一句語，
+何處有中邑也？」
+					  Master Ma Tsu remarked: "Sutras have entered into the
+					  storehouse, and Ch'an has retumed to the ocean. Here is a monk called
+崇壽稠云︰				  P'u Yuan who stands aloof, above objective things." (By this play
+「還有人定得此道理麼？			  on the names of the monks, Ma Tsu may have been indicating that
+¶若定不得，				  the future scriptural knowledge of Buddhism was the responsibility
+只是箇弄精魂脚手，			  of Chi Ts'ang, while the non-canonical teaching of Buddhism had
+佛性義在什麼處？」			  been absorbed by Huai Hai).
+
+玄覺云︰
+「若不是仰山，				  When Ma Tsu went into the lecture hall to give a sermon, the
+爭得見中邑？				  audience would gather like clouds. Once, just as Ma Tsu seated himself
+且道。					  on the dais, Huai Hai rolled up his mat in front of the Master,
+什麼處是仰山得見¶中邑處？)」¶		  indicating that the sermon was over. When Ma Tsu came down, Huai
+					  Hai again had a Ch'an interview with him.
+洪州百丈山懷海禪師者，
+福州長樂人也。
+丱¶歲離塵，				  Looking at Huai Hai as he approached, Ma Tsu took hold of the
+三學該練。				  dust-whisk hanging on the corner of the Ch'an seat and held it up,
+屬大寂闡化南康，
+乃傾心¶依附，
+與西堂智藏禪師同號入室,時二大¶士為角立焉。Huai Hai said, "The use of this thing is not to have to use it."
+一夕，
+二士隨侍馬祖翫月次，
+祖					  Ma Tsu hung the dust-whisk back in its place, and Huai Hai kept
+<pb:T_T51n2076_0249c>			  silent for a little while. Then Ma Tsu asked, "Hereafter in what way
+¶曰︰					  will you serve people by opening the two pieces of skin (of your
+「正恁麼時如何？」			  lips)?"
+
+西堂云︰
+「正好供養。」				  Huai Hai then took the dust-whisk and held it up.
+
+師云︰
+「¶正好修行。」				  Ma Tsu said, "The use of this thing is not to have to use it."
+
+祖云︰
+「經入藏，				  Huai Hai hung the dust-whisk back in its place, whereupon Ma
+禪歸海。」				  Tsu boomed out, "Ho!" Nuai Hai was deafened and remained so
+					  for three days, Since then the sound of this thunder has been
+馬祖上堂，¶				  reverberating.
+大眾雲集。
+方陞坐，
+良久，					  Master Huai Hai's adherents invited him to live at Ta Hsiung
+師乃卷却面前禮拜¶席，
+祖便下堂。				  210
+
+師一日詣馬祖。
+法塔，					  Monastery in Hsin Wu Chiai of Hung State. Because of the steep and
+祖於禪¶床角取拂子示之師云︰		  dangerous peak of the place where he lived, he named it Po Chang
+「只遮箇更別有。			  (Thousand Fathom) Mountain. Even before he had lived there a full
+¶？」					  year, visitors in search of the profundity came in groups from all
+					  directions. Kuei Shan and Huang Po were prominent among them.
+祖乃放舊處云︰
+「爾已後將什麼何為人？」
+¶師却取拂子示之。			  One day the Master said to the congregation, "Buddha-dharma
+					  is not a small matter. Oncc, in the past, l was having a Ch'an interview
+					  with Master Ma Tsu and he shouted "Ho!" in such a loud voice that
+祖云︰					  it made me deaf for three days and made my eyes dark."
+「只遮箇，
+更別有？」
+¶師以拂子挂安舊處。			  When iluang Po heard this story, he was astonished. The Master
+方侍立，。				  asked, "Are you not (also) a successor to Ma Tsu?"
+祖叱之。
+自，
+¶此雷音將震，				  Huang Po answered, "No, it is not true. If I were, I could have
+果檀信請。				  seen the great activity of Master Ma Tsu when you quoted the story.
+於洪州新吳界，				  It is obvious that I have not really known Ma Tsu. And even if 1 had
+住¶大。					  succeeded him, I would have lost my succession since then."
+雄山，
+以居處巖巒峻極，
+故。					  The Master remarked, "Well said, well said. If a man's insight
+號之百丈。				  is (only) equal to that of his teacher, he loses half of his teacher's
+既處¶之，				  virtue (authority). Only one whose insight exceeds that of his teacher
+未期月，				  will be good enough to have [the dharma] transmitted (to him). You
+玄參之賓，				  really have talent surpassing that of your teacher."
+四方至，
+即有溈山、
+黃¶蘗當其首。				  One day a monk came into the lecture hall weeping. The Master
+					  asked him, "What is the matter with you?"
+
+一日，
+師謂眾曰︰				  The monk said, "I have lost both my father and my mother. Pray,
+「佛法不是小事，			  Master, select the day [for the funeral]."
+老¶僧昔再蒙馬大師一喝，
+直得三日耳聾眼¶黑。」
+					  The Master replied, "Come tomorrow, I will bury them
+黃蘗聞舉，				  together.'►
+不覺吐舌，
+曰︰
+「某甲不識馬¶祖，			  The Master took his place in the lecture hall and announced, "You
+要且不見馬祖。」			  monks are to bring a word of Ch'an while shutting up your throats
+					  and lips."
+師云︰
+「汝已後當嗣馬祖。」
+					  Kuei Shan said, "I cannot say it. Please, Master, say it yourself."
+黃¶蘗云︰				  The Master responded, "I would not mind saying it for you, but
+「某甲不嗣馬祖。」			  if I did I would lose my posterity in far distant days."
+
+曰︰
+「作麼生？」				  Wu Feng said, "Master, you also should shut up [your throat
+					  and lips to say a word of Ch'an]."
+曰︰
+「已後喪我¶兒孫。」
+					  The Master replied, "I would like to see you in a place where
+師曰︰					  no-one is present."
+「如是！
+如是！」				  211
+
+一日，
+有僧哭入法堂¶來，			  Yun Yen said, "I have something to say. Master, please ask me
+師曰︰					  the question."
+「作麼？」
+
+曰︰					  The Master said, "Bring me quickly a word of Ch'an while
+「父母俱喪，				  shutting up your throat and lips."
+請師選日。」
+
+師云︰					  Yun Yen answered, "Now, here you are, Master."
+「¶明日來，				  The Master remarked, "I may lose my posterity."
+一時埋却。」
+
+師上堂云︰				  The Master announced to the congregation: "I need someone who
+「					  will deliver my message to Hsi T'ang. Who can go?"
+併却咽喉脣吻，
+¶速道將來。」
+					  Wu Feng responded, '`I can go."
+
+溈山云︰
+「某甲不道，				  The Master asked, "How will you deliver my message?"
+請和尚道。」				  Wu Feng said, "When I see Hsi T'ang I will speak."
+					  The Master asked, "What will you say?"
+師云︰
+「¶不辭與汝道，
+久後喪我兒孫。」			  Wu Feng answered, "I will tell you, Venerable Sir, when I come
+					  back."
+五峯云︰
+「和尚亦¶須併却。」
+					  Once when the Master was doing manual work with Kuei Shan
+師云︰					  he asked him, "Is there some fire or not?"
+「無人處斫額望汝。」
+
+雲巖︰					  Kuei Shan answered, "Yes, there is."
+云
+「某甲¶有道處，
+請和尚舉。」				  The Master pursued, "Where is it?"
+
+師云︰
+「併却咽喉脣吻，			  Kuei Shan held up a branch of a tree, blew two or three puffs,
+速道¶將來。」				  then passed it to the Master.
+
+
+雲巖曰︰				  The Master said, "Suppose a worm eats the tree?"
+「師今有也。」
+
+師曰︰					  [Someone] asked, "What is the Buddha?"
+「喪我兒孫。」
+
+師¶謂眾曰︰				  The Master asked, "Who are you?"
+「我要一人傳語西堂，
+阿誰去得？」
+					  The monk answered, "Just a person."
+五峯¶云︰
+「某甲去。」
+					  The Master asked, "Do you know that person or not?"
+師云︰					  The monk answered, "I know him clearly."
+「汝作麼生傳語？」
+
+五峯云︰				  The Master then raised his dust-whisk and asked, "Do you see
+「待¶見西堂即道。」			  him still?"
+
+師云︰
+「道什麼？」				  The monk answered, "Yes, I do."
+
+五峯云︰
+「却來說似¶和尚。」			  The Master was then silent.
+
+師與溈山作務次，
+師問︰					  On one occasion the monks had all been asked to dig the ground.
+「有火也無？」				  When they heard the meal-time drum, one monk came back carrying
+					  his mattock and laughing heartily. The Master remarked, "This is
+溈山¶云︰				  the gate whereby Bodhisattva Avalokitesvara enters into the doctrine."
+「有。」				  When they returned to the temple, the Master sent for the monk
+
+師云︰					  212
+「在什麼處？」
+溈山把一枝木吹三兩
+<pb:T_T51n2076_0250a>			  und asked him, "Why did yUu behave like that just now?"
+¶氣，
+過與師。
+					  The monk answered, "On hearing the sound of the drum I came
+師云︰					  back to have dinner."
+「如蟲蝕木。」
+
+問︰					  Then the Master laughed.
+「如何是佛？」
+
+師¶云︰					  A monk said, "Studying the scriptures in order to comprehend
+「汝是阿誰？」				  the principle of the teaching is to be an enemy of (all the) Buddhas
+					  in the three periods (of past, present, and future). But how is it when
+					  one confuses the teaching through bad theory, even by one letter,
+僧云︰					  because one is standing apart from the scriptures?"
+「某甲。」
+
+師云︰					  The Master said, "It is being an enemy of the Buddhas of the
+「汝識某甲否？」			  three periods to keep firmly to the active function, and it is similarly
+					  bad theory to seek for the teaching apart from this. In this connection
+僧¶云︰					  (I will tell you a story). Once a monk asked Hsi T'ang, 'When a
+「分明箇。」				  question is asked, an answer is given. How is it when no question
+					  is asked and no answer is given?' Hsi T'ang replied, 'What is the
+師乃舉起拂子云︰			  use of being afraid of over-ripeness?' Having heard this dialogue,
+「汝還見麼？」				  their Master remarked, 'I have been suspecting this old senior brother.'
+					  The monk said, 'O Master, please explain this matter to me.' Their
+僧云︰					  Master answered, 'An atom is not perceivable."'
+「¶見。」
+師乃不語。
+					  The Master said to the congregation, "Here is a man who does not
+因普請钁地次，				  say he is hungry, even though he never takes any food at all. Here
+忽有一僧。				  is another man who doesn't say he is tired of food, even though he
+聞飯¶鼓鳴，				  eats food all day long."
+舉起钁頭，
+大笑便歸。
+師云︰					  Not one member of the congregation responded to this.
+「俊哉！
+此是觀¶音入理之門。」
+					  Yun Yen asked, "Master, for whom do you drive yourself so
+師歸院，				  hard every day?"
+乃喚其僧問︰
+「適來見什¶麼道理便恁麼？」
+					  The Master answered, "There is someone here who needs it."
+對云︰					  Yun Yen retorted, "Why don't you give him the bother of doing
+「適來只聞鼓聲動，			  it himself?"
+歸喫¶飯去來。」
+師乃笑。
+					  A monk asked, "What is the doctrine of the abrupt teaching of
+問︰					  the Mahayana?"
+「依經解義，
+三世
+佛怨；					  The Master said, "You must, first of all, stop all your concern
+離經¶一字，				  about everything and have a rest. Don't remember anything: good
+如同魔說。				  or non-good, worldly or non-worldly. Don't cherish any idea, but
+如何？」				  throw away both your body and your mind and let them be free. Your
+
+師云︰					  213
+「固守動用，
+三世¶佛怨；
+此外別求，				  mind must not distinguish items such as trees or stones; then your
+即同魔說。」				  mind will have nothing to do. If your mind-ground becomes void,
+					  then the sun of wisdom will appear by itself, like the rising sun breaking
+					  through clouds. lf the cravings of greediness, anger, love and
+因僧問西堂云︰				  grasping can be altogether stopped, if dirt can be made clean and the
+「有¶問有答，				  affections exhausted, then one will not be driven by the five desires
+不問不答時如何？」			  (of seeing, hearing, smelling, tasting and touching) nor by the eight
+					  winds (which fan the passions), even if one comes face to face with
+西堂云︰				  them. Such a man will possess supernatural powers and can make
+「怕爛却作¶麼？」			  wonderful demonstrations. This is a man of emancipation. In all
+					  objective states, one who is free from being either quiet or confused,
+師聞舉，				  and is not caught up in all sounds and colors by either absorbing them
+乃云︰					  or scattering them about, is named a man of Tao. A man is regarded
+「從來疑遮箇老兄。」			  as having Buddha wisdom only when he is not affected by all the good,
+					  bad, dirty, or clean bondage in the active world. When his views on
+僧云︰					  right, wrong, lovable and ugly are all exhausted and he cannot be
+「請¶和尚道。」				  bound by anything, then he is free in mind and is called a
+					  bodhisattva—an initiate in the first degree. ln other words, when he
+師云︰					  has climbed to the Buddha-land (he sees that) no things are void in
+「一合相不可得。」			  themselves, they do not declare themselves as physical beings, nor
+					  do they declare themselves to be right, wrong, dirty or clean. (Not
+師謂眾云︰				  being bound himself) neither does he bind the minds of other people.
+「有一¶人長不喫飯不道饑，
+有一人終日喫飯不道¶飽。」
+眾皆無對。				  "Unfortunately, man clings to self-made interpretations hascd
+					  on falschood and causing opinions to arise. When the mind of dirty
+雲巖問︰				  or clean is exhausted, when he dwells neither in bqndage nor in
+「和尚每日區區為阿¶誰？」		  emancipation, and when he ceases his interpretation of active or
+					  inactive, managing his life with equanimity in both life and death,
+師云︰					  then he will be free. In the end, he will not be compatible with people
+「有一人要。」				  in the empty visionary world; he will live aloof, disregarding all
+					  common affairs. His freedom to depart or remain resembles the
+巖云︰					  opening of a gate for movement to and fro between life and death.
+「因什麼不教伊自¶作？」
+
+師云︰					  "When you encounter various pains and pleasures which are
+「他無家活。」				  disagreeable, you should not get bored with them. Don't think about
+					  your fame or clothes or food, and don't be greedy about merits and
+僧問︰					  profits, or be hindered by worldly matters. However much your mind
+「如何是大乘頓悟法¶門？」		  may experience the suffering or comfort of your body, don't let your
+					  heart be involved.
+
+師曰︰
+「汝等先歇諸緣，			  "He who sustains life with coarse food, protects himself from
+休息萬事，				  cold and heat with simple clothes, and sits upright in a dignified
+善與不善、				  attitude, makes the best of the year. It is as though he were a fool
+¶世出世間。				  or a deaf-mute with little truth (in him, but) he who learns widely
+一切諸法，
+莫記憶、				  214
+莫緣念，
+放捨身¶心，
+令其自在。				  of the intellectual knowledge (of this world) of life and death, seeking
+心如木石，				  for happiness and wisdom, will attain no proportionate benefit. On
+無所辯別；				  the contrary, he will be tossed about in the wind of analyzing
+心無所行，				  conditions and return to the sea of life and death.
+¶心地若空，
+慧日自現，
+如雲開日出。				  "The Buddha is a man who has no secking. Should a man seek
+相似，					  for him, he is unreasonable; the reason is the reason of no-secking.
+俱歇。					  If one seeks lor it, one will lose it; and if one does not seek, it is
+¶一切攀緣、				  the same as seeking tor something.
+貪瞋愛取，
+垢淨情盡。
+對五欲、				  "This doctrine is neither real nor void. If, for his lifetime, a man
+八風，					  can be like a tree or a stone and be free in this dark world from being
+¶不被見聞覺知所縛，			  overwhelmed by the five desires and the eight winds, this means the
+不被諸境所惑，				  cutting off of the cause of birth and death, and freedom to go away
+自然具¶足神通妙用，			  or remain. Such a man will never be bound by all the active (karmic)
+是解脫人。				  laws of causes and effects. On the contrary, he will some day come
+對一切境，				  to bestow benefits equally upon countless beings. In accordance with
+心無靜亂，				  minds of every type he will untie all bonds, (dealing with) each mind
+¶不攝不散，				  according to his boundless wisdom, with the ability to give some kind
+透一切聲色，				  of medicine according to each illness."
+無有滯礙，
+名為道人。
+¶但不被一切善惡垢淨、			  A monk said, "Just now I received the Precepts. I feel as though
+有為世間福智拘繫，			  I have cleansed my body, mouth and mind, and am prepared for all
+¶即名					  good deeds necessary for emancipation. Have I gained emancipation
+為佛慧。				  or not?"
+是非好醜，
+是理非理，
+諸知見總¶盡，				  The Master replied, "You have gained a small part of the
+不被繫縛，				  emancipation, but not yet emancipation of your mind, and certainly
+處心自在，				  not complete emancipation."
+名初發心菩薩，
+便登¶佛地。
+					  The monk asked, "What is meant by emancipation of mind?"
+「一切諸法，
+本不自空，
+不自言色，				  The Master answered, "Don't seek for the Buddha; don't seek
+亦不言					  for intellectual knowledge of the matter. You must not regard it as
+<pb:T_T51n2076_0250b>			  correct to clean off the dirt, exhaust the affections, and hold to the
+¶是非垢淨，				  non-seeking. (The true man) does not stay in the place where [wrong
+亦無心繫縛人，				  views] are exhausted. He has no fear of the bondages of hell, nor
+但人自虛妄計著，			  love for the enjoyments of heaven. Only when a man cares nothing
+¶作若干種解，				  for all things is he worthy to be.called a free, unhindered man. He
+起若干種知見。				  is called 'emancipated-in-both-body-and-mind man'.
+若垢淨心盡，
+不¶住繫縛，
+不住解脫，				  "You are not to imagine yourself as having completed [the
+無一切有為無為。			  training] just because you have a little good from the Precepts. After
+解，					  all, the gates of inactive precept, samadhi and wisdom are as numerous
+平等¶心量，				  as the sands of the Ganges; they are not to be compared with a single
+處於生死，				  atom. You must make your effort as quickly as possible. Don't wait
+其心自在，
+畢竟不與虛幻、				  215
+塵¶勞、
+蘊界、
+生死諸入和合，				  until your ears grow deaf, your eyes grow dark, your head is white,
+逈然無寄，				  and your face wrinkled. Don't wait until the pains of age are catching
+一切不拘，				  up with you and your eyes are filled with tears.
+¶去留無礙，
+往來生死如門開相似。
+若遇種種¶苦樂，				  "Then (at the point of death), even if you are scared out of your
+不稱意事，				  wits, there is no escape. At such a time you cannot adjust your legs
+心無退屈，				  and hands. Even if you are well-informed about blessedness and
+不念名聞衣食，				  wisdom, this will not help you. With your spiritual eye not open, you
+不¶貪一切功德利益，			  cannot know how to reflect yourself by cherishing images of various
+不為世法之所滯。			  states, nor can you see the Buddha's Way. Then all the evil actions
+心雖親¶受，				  you have committed will present themselves before you— none of
+苦樂不干于懷，				  them will be lacking. Some may seem delightful and others dreadful.
+麁食接命，				  The six ways and the five aggregates will present themselves, and
+補衣禦寒暑，				  you will see very well-defined and charming houses, ships and
+兀¶兀如愚如聾相似。			  carriages, all irradiated with brightness. If a man then clings to
+					  anything he sees, everything before him will change into his beloved
+「稍有親分，				  objects, Then he will be reborn into what he esteems, thereby losing
+於生死中廣學¶知解，			  his freedom. Whether this rebirth would be as a dragon or as an
+求福求智，				  animal, into a good state or a bad state, is still undecided."
+於理無益，
+却被解境風漂，
+却¶歸生死海裏。				  A monk asked, "How can a person get freedom?"
+佛是無求人，
+求之即乖；
+理。					  The Master answered, "At this moment he should be indifferent
+是無¶求理，				  to the five desires and the eight winds. He should be free in his
+求之即失。				  affection whether he accepts or rejects the objects of it. After feelings
+若取於無求，				  of 'dirty' and 'clean' are lost, he will be like the sun or moon
+復同於有求，				  in the sky, shining over all things without cherishing their images.
+此¶法無實無虛。				  His mind will be like a tree or a stone, and he will resemble the
+若能一生心如木石相似，			  Fragrant Elephant (Bodhisattva Samantabhadra) who crosses streams
+不為¶陰界、				  by shutting off the currents. Because nothing prevents him from going
+五欲、					  forth, even the hosts of heaven and hell cannot hinder him. Because
+八風之所漂溺，				  he does not care to recite sutras and learn scriptures, words have t�
+即生死因斷，				  come from himself; all his sayings are no other than expressions of
+去住自					  his own immediate enlightenment. One who is not driven by all states
+¶由，					  of things, sentient or non-sentient, is a leader. Because he can understand
+不為一切有為因果所縛，			  all things, sentient and non-sentient, he is precious and
+他時還與無縛¶身同利物，			  adamantine—namely, he is free and independent.
+以無縛心應一切心，
+以無縛慧解¶一切縛，
+亦能應病與藥。」			  "If one is unable to behave this way, he would only be selfconceited
+					  and vilify the Buddha, even though he were able to recite
+					  all twelve divisions of the Mahayana canon. This is not the practice
+僧問︰					  of the teaching. One who authorizes the worldly standards of reading
+「如今受戒，				  and learning the teaching merely loves good affairs. Although we may
+身口¶清淨，
+已。					  216
+具諸善，
+得解脫否？」
+					  judge him to be a man of reason, he is a man who blocks up the
+答︰					  teaching. Even a man in the tenth stage (in the development of a
+「少分解脫，				  bodhisattva into a Buddha) may fiow into the river of birth and death
+未得¶心解脫，				  unless he escapes out of it.
+未得一切解脫。」
+
+問︰					  "Don't seek only for phrases of intellectual comprehension, for
+「云。					  to intellectual comprehension belongs greediness. Greediness becomes
+何是心解脫？」				  a sickness. You would be of the same nature as the Buddha only if
+					  you escaped from all things by passing through the three barriersindeed,
+答︰					  you would already be a Buddha yourself.
+「¶不求佛，
+不求知解，
+垢淨情盡，				  "Why do you worry that a Buddha might not understand the
+亦不守此無求¶為。			  language? What I fear is that you are not a Buddha, and have not.
+是，					  gained freedom because of being driven by all things, sentient and
+亦不住盡處，				  non-sentient. It is more likely that a noble man would take orders
+亦不畏地獄縛，				  from a peasant than that blessedness and wisdom would come before
+不愛天堂¶樂，				  the theory is set up. This carries men away, and is not to be compared
+一切法不拘，				  with setting up the theory first and having the blessedness and wisdom
+始名為解脫無礙，			  later.
+即身心及¶一切皆名解脫。
+汝莫言有少分戒善將為便¶了，
+有河沙無漏戒定慧門，			  "At the proper time it may be possible to transmute soil into gold,
+都未涉一毫在。				  to churn sea-water into cream or butter, to crush Mount Sumcru into
+¶努力猛作早與，				  line dust, to develop one principle into numberless principles, and
+莫待耳聾眼暗，				  to reduce numberless principles into one principle."
+頭白面皺，
+老¶苦及身，
+眼中流淚，				  On the last day (of a retreat season) after the Master had ended
+心中慞惶，				  his sermon and the monks were leaving the lecture hall, he called
+未有去處，				  after them. When they turned their heads, the Master asked, "What
+到恁¶麼時，				  is this?"
+整理脚手不得也，
+縱有福智多聞，
+都不¶相救。				  Yo Shan (751-834 A.D.) named this "the phrase of hall-leaving
+為心眼未開，				  of Yo Shan."
+唯緣念諸境，
+不知返照，
+復					  On January 17th of the ninth year of Yuan Ho (814 A.D.) of
+<pb:T_T51n2076_0250c>			  the T'ang dynasty, the Master passed away at the age of 95.
+¶不見佛道，
+一生所有惡業悉現於前，
+或忻或¶怖，				  In the first year of Ch'ang Ch'ing era (821 A.D.), the posthumous
+六道五蘊現前，				  title Master Ta Chih was conferred upon him, and his tower was given
+盡見。					  the name Ta Pao Sheng Lun.
+嚴好舍宅、
+舟船車輿，				  217
+¶光明顯赫，
+為縱自心貪愛，
+所見悉變為好境，			  From the time the Ch'an sect was first established in the room
+¶隨所見重處受生，			  at Shao Lin Temple until the time it came to Ts'ao Ch'i Monastery,
+都無自由分，				  it mostly took shelter in temples of the Vinaya sect. Although it was
+龍畜良賤，				  practiced in a separate courtyard, Ch'an was not in accordance with
+亦¶總未					  the (Vinaya sect) regulations about the preaching of the Dharma and
+定。」					  about daily life. Consequently, too much attention had to be given
+					  to details all the time.
+問︰
+「如何得自由？」
+					  Then the Master (Po Chang) said: "The Patriarchal Way needs
+					  to propagate the origin of the teaching without destroying the source,
+答︰					  and to practice in accordance with the teachings of the agamas."
+「如今對五欲、
+八風，
+¶情無取捨，				  Someone said: "The Yogacaryabhumi Sastra and the yoga
+垢淨俱亡，				  writings are regarded as the silas or vinayas of the Mahayana. Why
+如日月在空，				  should we not follow them?"
+不緣而照。
+¶心如木石，
+亦如香象截流而過，			  The Master said, "What I take as my doctrine is not limited to
+更無疑滯，				  the preachings which the Mahayana and Hinayana teach; neither is
+此¶人天堂、				  it different from that which the Mahayana and Hinayana teach. We
+地獄所不能攝也。			  must enlarge, with restraint, and separate ourselves to establish the
+又不讀經看教，				  regulations and practice appropriate for us. Therefore we must institute
+語¶言。					  Ch'an centers apart from others.
+皆須宛轉歸就自己。
+但是一切言教，
+只明¶如今覺性自己，			  "One who has the Tao eye and is worthy of respect is to be called
+俱不被一切有無諸法境轉，		  an Elder Brother, after the fashion of the Western Country, where
+¶是導師；				  those who had passed years in the order, such as Subhuti and others,
+能照破一切有無境法，			  were addressed by this title.
+是金剛，
+即有¶自由獨立分。
+若不能恁麼得，				  "One who acts as a teacher shall be put in the abbot's quarters,
+縱令誦得十二¶韋陀經，			  which is not his private room but the room of Vimalakirti (who in
+只成增上慢，				  his small room entertained a great assembly and preached the dharma
+却是謗佛，				  to Manjusri).
+不是修行。
+讀¶經看教，
+若准世間，				  "A Dharma Hall shall be erected rather than a Buddha Hall. This
+是好善事；				  expresses the truth that the abbot of each generation is a holy man
+若向明理人邊¶數，			  and has received the Order in person from the Buddha or a Patriarch.
+此是壅塞人。
+十地之人脫不去，
+流入生死¶河。				  "Amongst monks assembled together there will be no differences
+但不用求覓知解語義句，			  of `higher or 'lower. Long, joined benches will be put into the
+知解屬貪，				  monks' hall, and each monk will he given a place according to the
+貪變¶成病，				  length of time he has lived there. A hanging frame will be set for
+只如今但離一切有無諸法，		  each monk for hanging his robe and his equipment for the Way. When
+透過三句¶外，				  a monk lics down he must kccp his pillow parallel to the rim of the
+自然與佛無差。				  bed. For him to lic on his right side is propitious and will case the
+既自是佛，				  long sitting in meditation. In these ways a monk completes the four
+何慮佛不解語？				  respect-inspiring forms of demeanor in his walking, standing, sitting,
+¶只恐不是佛，				  and lying down.
+被有無諸法轉，
+不得自由。				  218
+是以¶理未立，
+先有福智載去，
+如賤使貴。				  "Monks shall be left free to be diligent or idle except for the
+不如於理¶先立，				  matter of entering into the abbot's r®om for inquiring into the Way.
+後有福智，				  They may enter or leave the hall without any statutory requirements.
+臨時作得，				  The whole community is to inquire into the Way each morning, and
+捉土為金，				  studying will be done in the evening.
+變海水¶為酥酪，
+破須彌山為微塵，
+於一義作無量義，			  "When the Elder takes his place in the lecture hall, the chief
+¶於無					  controllers will stand attentively and listen to him. This is to show
+量義作一義。」				  that they live in accordance with the Dharma; to enable them to
+					  encourage the Ch'an spirit by assuming the guest and host positions;
+師有時說法竟，				  and to sustain questions and answers.
+大眾下堂，
+¶乃召之，
+大眾迴首，				  (The chief controllers) will see that both scriptures and food are
+師云︰					  provided twice a day at suitable times for breakfast and lunch. They
+「是什麼				  will cooperate with both the Elders and the younger brothers to enforce
+(藥					  the rule of general labor.
+山目之為百丈下堂句)
+唐¶？」
+					  "There will be ten quarters to be called official rooms. For each
+元和九年正月十七日歸寂，		  a monk will be chosen as chief, and he will be in charge of the other
+壽九十五。				  men who work in that service. (For example) the monk in charge
+長慶¶元年，				  of rice will be called the rice master, and the one in charge of
+勅諡大智禪師，				  vegetables will be called the vegetable master, and others will work
+塔曰大寶勝輪。¶				  under them.
+******* 禪門規式¶
+
+					  "lf someone steals a place in the community of venerable brothers
+					  by borrowing the name and imitating the form, and then creates loud
+百丈大智禪師。				  noise or disturbance, he will be reported to the directing monk. His
+以禪宗肇自少室，			  registration at the main office will be cancelled, and he will be expelled
+至曹谿以¶來，				  from the brotherhood. This will be carried out in order to keep the
+多居律寺。				  peace of the community.
+雖別院，
+然於說法住持未合規
+<pb:T_T51n2076_0251a>			  "If some crime is committed, (the culprit) should be punished
+¶度，					  by being beaten with a staff. Then the congregation should be
+故。					  summoned for a burning of his robe, bowls, and other utensils, and
+常爾介懷，				  the man himself chased out from the side gate. This will be a disgrace
+乃曰︰					  for him. Four advantages arise from stating this particular article in
+「祖之道，				  detail: (1) Not to allow corruption in the venerable congregation, but
+欲誕布化元，				  to engender respect and trust. (2) Not to break the monastic rule, but
+冀¶來際不泯者，				  to follow the rules of conduct set out by the Buddha. (3) Not to disturb
+豈當與諸部阿笈摩教為隨行¶耶		  the public court, but to save litigation. (4) Not to let private matters
+(舊？					  leak out from the inner relationship, but to protect the spiritual
+梵」					  constitution."
+
+語阿含。
+新云阿笈摩。				  The self-government of the Ch'an school originates from Master
+即小乘教也)				  Po Chang, but only the outline of it is described here. This sketch
+或曰︰
+「					  219
+《瑜伽論》、
+《瓔珞經》是大¶乘戒律，
+胡不依隨哉？」				  of the situation is to enable students of future generations not to forget
+					  its roots. The full regulations are preserved in the monasteries.
+師曰︰					  * * * * *
+「吾所宗非局大小¶乘，
+非異大小乘，				  220
+當博約折中，
+設於制範，
+務其¶宜也。」
+
+於是創意別立禪居。
+凡具道眼，
+有可尊¶之德者，
+號曰長老，
+如西域道高臘長。
+呼須菩¶提等之謂也。
+既為化主，
+即處于方丈，
+同淨名¶之室，
+非私寢之室也。
+不立佛殿，
+唯樹法堂者，
+¶表佛祖親囑授，
+當代為尊也。
+所褒學眾，
+無多¶少、
+無高下，
+盡入僧堂中，
+依夏次安排。
+設長連¶床，
+施椸架，
+掛搭道具。
+臥必斜枕床脣，
+右
+脅吉¶祥睡者，
+以其坐禪既久，
+略偃息而已，
+具四威¶儀也。
+除入室請益，
+任學者勤怠，
+或上或下，
+不¶拘常准。
+
+
+其闔院大眾朝參夕聚，
+長老上堂陞¶坐，。
+主事、
+徒眾雁立側聆，
+賓主問醻，
+激揚宗要¶者，
+示依法而住也。
+齋粥隨宜，
+二時均遍者，
+務¶于節儉，
+表法食雙運也。
+行普請法，
+上下均力¶也。
+
+置十務，
+謂之寮舍，
+每用首領一人，
+管多人¶營事，
+令各司其局也
+(主飯者目為飯頭。
+主菜者目為菜頭。
+他皆倣此)
+或有¶假號竊形，
+混于清眾，
+并別致喧撓之事，
+即堂¶維那檢舉，
+抽下本位掛搭，
+擯令出院者，
+貴安¶清眾也。
+或彼有所犯，
+即以拄杖杖之，
+集眾燒¶衣鉢、
+道具，
+遣逐。
+從偏門而出者，
+示恥辱也。
+詳¶此一條，
+制有四益︰
+一、
+不污清眾，
+生恭信故
+(三業不善¶；
+不可共住。
+準律合用梵壇法治之者。
+當驅出院。
+清眾既安恭信生矣)
+二、
+不毀僧形，
+循佛¶制故
+(隨；
+宜懲罰。
+得留法服。
+後必悔之)
+三、
+不擾公門省獄訟故；
+四、
+¶不洩于外護宗綱故
+(四來同居聖凡孰辨。
+且如來應世尚有六群之黨。
+況今像末豈¶得全無。
+但見一僧有過。
+便雷例譏誚。
+殊不知。
+以輕眾壞法其損甚大。
+今禪門若稍無妨害者。
+宜依百丈叢林格式
+<pb:T_T51n2076_0251b>
+¶量事區分。
+且立法防姦。
+不為賢士然。
+寧可有格而無犯。
+不可有犯而無教。
+惟百丈禪師護法之益。
+其大矣哉)
+¶禪門獨行，
+由百丈之始，
+今略敘大要，
+遍示後¶代學者，
+令不忘本也。
+其諸軌度，
+山門備焉。
+
+
+¶景德傳燈錄卷第六
+
+¶
