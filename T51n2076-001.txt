@@ -1,6 +1,6 @@
 #-*- mode: org; -*-
 #+TITLE: 景德傳燈錄
-#+DATE: 2011-04-30 16:06:41
+#+DATE: 2011-04-30 16:06:42
 #+PROPERTY: title 景德傳燈錄
 #+PROPERTY: baseedition DCS
 #+PROPERTY: id T51n2076
